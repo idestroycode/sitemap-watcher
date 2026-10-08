@@ -2,21 +2,21 @@
   "feeds": {
     "health-canada": {
       "ok": true,
-      "baseline": true,
-      "urlsInSitemap": 14906,
+      "baseline": false,
+      "urlsInSitemap": 14905,
       "urlsMatchingFilter": 5826,
-      "newOrUpdated": 0
+      "newOrUpdated": 432
     },
     "cra": {
       "ok": true,
-      "baseline": true,
+      "baseline": false,
       "urlsInSitemap": 12480,
       "urlsMatchingFilter": 272,
       "newOrUpdated": 0
     },
     "agco": {
       "ok": true,
-      "baseline": true,
+      "baseline": false,
       "urlsInSitemap": 5228,
       "urlsMatchingFilter": 1472,
       "newOrUpdated": 0
