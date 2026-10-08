@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health Canada changes</title>
+    <link>https://idestroycode.github.io/sitemap-watcher/rss/health-canada.xml</link>
+    <description>Sitemap URLs whose lastmod has changed</description>
+    <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/health-canada.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+
+  </channel>
+</rss>
