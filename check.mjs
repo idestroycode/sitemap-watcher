@@ -42,6 +42,15 @@ const FEEDS = [
 ];
 
 const TIMEZONE = "America/Toronto"; // plain-language dates in emails and RSS
+// true  = also alert when a URL appears for the first time (never seen before).
+// false = alert ONLY when an already-known URL gets a newer lastmod.
+const ALERT_ON_NEW_URLS = true;
+
+// A known URL only counts as "updated" if its lastmod moved forward by MORE than
+// this many seconds. Ignores sub-minute jitter (seconds/milliseconds) that makes
+// the same page look "newer" without any real edit.
+const MIN_CHANGE_SECONDS = 60;
+
 const MAX_ITEMS = 300;              // entries kept in the RSS feeds
 const MAX_CHILD_SITEMAPS = 50;      // cap if a feed is a sitemap index
 const UA = "SitemapWatcher/1.0 (+GitHub Actions)";
@@ -101,37 +110,70 @@ async function checkFeed(feed, prev) {
   const keep = (loc) => passes(feed, loc);
   // If any one sitemap fails, the whole feed is skipped this run.
   const filtered = (await Promise.all(feed.urls.map((u) => fetchSitemap(u, keep, stats)))).flat();
-  filtered.sort((a, b) => (a.loc < b.loc ? -1 : a.loc > b.loc ? 1 : 0));
 
-  const next = {};
-  for (const e of filtered) next[e.loc] = e.lastmod;
-  const counts = { total: stats.total, matched: filtered.length };
+  // A URL listed more than once keeps its latest lastmod
+  const cur = new Map();
+  for (const e of filtered) cur.set(e.loc, later(cur.get(e.loc), e.lastmod));
+  const counts = { total: stats.total, matched: cur.size };
 
   // First run: record the current state without flooding you with every URL
-  if (!prev) return { items: [], next, baseline: true, ...counts };
+  if (!prev) return { items: [], next: sortedObject(cur), baseline: true, ...counts };
 
   const detectedAt = new Date().toISOString();
-  const items = [];
-  for (const e of filtered) {
-    if (!e.lastmod) continue;
-    const old = prev[e.loc];
-    const isNew = old === undefined;
-    const isNewer = !isNew && (!old || Date.parse(e.lastmod) > Date.parse(old));
-    if (!isNew && !isNewer) continue;
+  const mk = (kind, loc, lastmod, previous) => ({
+    id: `${loc}#${lastmod}`,
+    feedId: feed.id,
+    feedName: feed.name,
+    title: titleFromUrl(loc),
+    link: loc,
+    lastmod,
+    kind,
+    previous,
+    detectedAt,
+  });
 
-    items.push({
-      id: `${e.loc}#${e.lastmod}`,
-      feedId: feed.id,
-      feedName: feed.name,
-      title: titleFromUrl(e.loc),
-      link: e.loc,
-      lastmod: e.lastmod,
-      kind: isNew ? "New URL" : "Updated",
-      previous: isNew ? "" : old,
-      detectedAt,
-    });
+  const items = [];
+  // Start from what we already knew: URLs that vanish stay remembered, so a
+  // URL that drops out of the sitemap and comes back is not treated as new.
+  const merged = new Map(Object.entries(prev));
+
+  for (const [loc, lastmod] of cur) {
+    const old = prev[loc];
+
+    if (old === undefined) {
+      if (ALERT_ON_NEW_URLS && lastmod) items.push(mk("New URL", loc, lastmod, ""));
+      merged.set(loc, lastmod);
+      continue;
+    }
+
+    if (isNewer(lastmod, old, MIN_CHANGE_SECONDS)) items.push(mk("Updated", loc, lastmod, old));
+    // Never move a stored date backwards (protects against stale copies of the sitemap)
+    merged.set(loc, later(old, lastmod));
   }
-  return { items, next, baseline: false, ...counts };
+
+  return { items, next: sortedObject(merged), baseline: false, ...counts };
+}
+
+// true only if `a` is a valid date later than `b` by more than `minSeconds`
+function isNewer(a, b, minSeconds = 0) {
+  const ta = Date.parse(a);
+  if (!a || isNaN(ta)) return false;
+  if (!b) return true; // known URL that previously had no lastmod
+  const tb = Date.parse(b);
+  return isNaN(tb) ? true : ta - tb > minSeconds * 1000;
+}
+
+// whichever of the two dates is later (empty/missing values lose)
+function later(a, b) {
+  if (!a) return b || "";
+  if (!b) return a;
+  return isNewer(b, a) ? b : a;
+}
+
+function sortedObject(map) {
+  const out = {};
+  for (const k of [...map.keys()].sort()) out[k] = map.get(k);
+  return out;
 }
 
 const REGEX_CACHE = new Map();
