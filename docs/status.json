@@ -5,21 +5,21 @@
       "baseline": false,
       "urlsInSitemap": 14906,
       "urlsMatchingFilter": 5826,
-      "newOrUpdated": 0
+      "newOrUpdated": 282
     },
     "cra": {
       "ok": true,
       "baseline": false,
       "urlsInSitemap": 12480,
       "urlsMatchingFilter": 272,
-      "newOrUpdated": 28
+      "newOrUpdated": 15
     },
     "agco": {
       "ok": true,
       "baseline": false,
       "urlsInSitemap": 5208,
       "urlsMatchingFilter": 1462,
-      "newOrUpdated": 2
+      "newOrUpdated": 0
     }
   }
 }
