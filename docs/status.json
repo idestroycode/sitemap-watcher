@@ -3,9 +3,9 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14905,
+      "urlsInSitemap": 14906,
       "urlsMatchingFilter": 5826,
-      "newOrUpdated": 17
+      "newOrUpdated": 1
     },
     "cra": {
       "ok": true,

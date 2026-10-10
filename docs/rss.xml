@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 20:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:16:32 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Licensed Cultivators Processors Sellers</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html#2026-10-09T17:01:02.537-04:00</guid>
+      <pubDate>Fri, 09 Oct 2026 21:01:02 GMT</pubDate>
+      <description>Updated. Last modified: Friday, October 9, 2026 at 5:01 PM EDT (previously Friday, October 2, 2026 at 5:01 PM EDT)</description>
+    </item>
     <item>
       <title>[Health Canada] Updates List Interchangeable Terms</title>
       <link>https://www.canada.ca/en/health-canada/services/licences-authorizations-registrations-drug-health-products/licence-authorization-registration-forms-drug-health-products/natural-health-product-licensing/bulletin/updates-list-interchangeable-terms.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents.html#2026-10-07T14:36:04.495-04:00</guid>
       <pubDate>Wed, 07 Oct 2026 18:36:04 GMT</pubDate>
       <description>Updated. Last modified: Wednesday, October 7, 2026 at 2:36 PM EDT (previously Wednesday, October 7, 2026 at 2:36 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] Document</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/3d-licensing-requirements/document.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/3d-licensing-requirements/document.html#2026-09-17T10:44:38.518-04:00</guid>
-      <pubDate>Thu, 17 Sep 2026 14:44:38 GMT</pubDate>
-      <description>Updated. Last modified: Thursday, September 17, 2026 at 10:44 AM EDT (previously Thursday, September 17, 2026 at 10:44 AM EDT)</description>
     </item>
   </channel>
 </rss>
