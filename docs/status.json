@@ -5,7 +5,7 @@
       "baseline": false,
       "urlsInSitemap": 14906,
       "urlsMatchingFilter": 5826,
-      "newOrUpdated": 1
+      "newOrUpdated": 0
     },
     "cra": {
       "ok": true,
@@ -17,9 +17,9 @@
     "agco": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 5208,
-      "urlsMatchingFilter": 1462,
-      "newOrUpdated": 0
+      "urlsInSitemap": 5194,
+      "urlsMatchingFilter": 1455,
+      "newOrUpdated": 2
     }
   }
 }
