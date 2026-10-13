@@ -5,7 +5,28 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss/health-canada.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/health-canada.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 Oct 2026 00:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:20:40 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Conditions</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/notice-compliance/conditions.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/notice-compliance/conditions.html#2026-10-13T08:15:28.991-04:00</guid>
+      <pubDate>Tue, 13 Oct 2026 12:15:28 GMT</pubDate>
+      <description>Updated. Last modified: Tuesday, October 13, 2026 at 8:15 AM EDT (previously Tuesday, August 18, 2026 at 8:48 AM EDT)</description>
+    </item>
+    <item>
+      <title>[Health Canada] Qualifying Notice Hernexeos 304237</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/notice-compliance/conditions/qualifying-notice-hernexeos-304237.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/notice-compliance/conditions/qualifying-notice-hernexeos-304237.html#2026-10-13T08:14:49.048-04:00</guid>
+      <pubDate>Tue, 13 Oct 2026 12:14:49 GMT</pubDate>
+      <description>New URL. Last modified: Tuesday, October 13, 2026 at 8:14 AM EDT</description>
+    </item>
+    <item>
+      <title>[Health Canada] What New Drug Products Health Canada</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/what-new-drug-products-health-canada.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/what-new-drug-products-health-canada.html#2026-10-13T08:30:36.730-04:00</guid>
+      <pubDate>Tue, 13 Oct 2026 12:30:36 GMT</pubDate>
+      <description>Updated. Last modified: Tuesday, October 13, 2026 at 8:30 AM EDT (previously Friday, October 9, 2026 at 10:56 AM EDT)</description>
+    </item>
     <item>
       <title>[Health Canada] Licensed Cultivators Processors Sellers</title>
       <link>https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html</link>
@@ -2070,27 +2091,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/september-2020.html#2026-07-31T17:06:20.905-04:00</guid>
       <pubDate>Fri, 31 Jul 2026 21:06:20 GMT</pubDate>
       <description>Updated. Last modified: Friday, July 31, 2026 at 5:06 PM EDT (previously Friday, July 31, 2026 at 5:06 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] September 2022</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/september-2022.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/september-2022.html#2026-07-31T17:06:28.078-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 21:06:28 GMT</pubDate>
-      <description>Updated. Last modified: Friday, July 31, 2026 at 5:06 PM EDT (previously Friday, July 31, 2026 at 5:06 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] September 2025</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/september-2025.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/september-2025.html#2026-07-31T17:07:20.413-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 21:07:20 GMT</pubDate>
-      <description>Updated. Last modified: Friday, July 31, 2026 at 5:07 PM EDT (previously Friday, July 31, 2026 at 5:07 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] What New</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/what-new.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/what-new.html#2026-10-07T09:35:50.664-04:00</guid>
-      <pubDate>Wed, 07 Oct 2026 13:35:50 GMT</pubDate>
-      <description>Updated. Last modified: Wednesday, October 7, 2026 at 9:35 AM EDT (previously Wednesday, October 7, 2026 at 9:35 AM EDT)</description>
     </item>
   </channel>
 </rss>
