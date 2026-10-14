@@ -5,7 +5,28 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 15:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:38:27 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Announcements</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements.html#2026-10-14T10:48:03.967-04:00</guid>
+      <pubDate>Wed, 14 Oct 2026 14:48:03 GMT</pubDate>
+      <description>Updated. Last modified: Wednesday, October 14, 2026 at 10:48 AM EDT (previously Tuesday, October 6, 2026 at 3:39 PM EDT)</description>
+    </item>
+    <item>
+      <title>[Health Canada] What New Drug Products Health Canada</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/what-new-drug-products-health-canada.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/what-new-drug-products-health-canada.html#2026-10-14T10:51:12.250-04:00</guid>
+      <pubDate>Wed, 14 Oct 2026 14:51:12 GMT</pubDate>
+      <description>Updated. Last modified: Wednesday, October 14, 2026 at 10:51 AM EDT (previously Wednesday, October 14, 2026 at 9:20 AM EDT)</description>
+    </item>
+    <item>
+      <title>[Health Canada] What New</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/what-new.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/what-new.html#2026-10-14T10:55:27.043-04:00</guid>
+      <pubDate>Wed, 14 Oct 2026 14:55:27 GMT</pubDate>
+      <description>Updated. Last modified: Wednesday, October 14, 2026 at 10:55 AM EDT (previously Thursday, August 27, 2026 at 10:52 AM EDT)</description>
+    </item>
     <item>
       <title>[Health Canada] Stop Illegal Marketing Infographic</title>
       <link>https://www.canada.ca/en/health-canada/services/publications/drugs-health-products/stop-illegal-marketing-infographic.html</link>
@@ -2084,27 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/june-2026.html#2026-06-25T10:31:18.915-04:00</guid>
       <pubDate>Thu, 25 Jun 2026 14:31:18 GMT</pubDate>
       <description>Updated. Last modified: Thursday, June 25, 2026 at 10:31 AM EDT (previously Thursday, June 25, 2026 at 10:31 AM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] March 2020</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/march-2020.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/march-2020.html#2026-07-31T17:03:56.967-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 21:03:56 GMT</pubDate>
-      <description>Updated. Last modified: Friday, July 31, 2026 at 5:03 PM EDT (previously Friday, July 31, 2026 at 5:03 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] March 2021</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/march-2021.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/march-2021.html#2026-07-31T17:03:59.483-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 21:03:59 GMT</pubDate>
-      <description>Updated. Last modified: Friday, July 31, 2026 at 5:03 PM EDT (previously Friday, July 31, 2026 at 5:03 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] March 2022</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/march-2022.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/march-2022.html#2026-07-31T17:04:02.745-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 21:04:02 GMT</pubDate>
-      <description>Updated. Last modified: Friday, July 31, 2026 at 5:04 PM EDT (previously Friday, July 31, 2026 at 5:04 PM EDT)</description>
     </item>
   </channel>
 </rss>
