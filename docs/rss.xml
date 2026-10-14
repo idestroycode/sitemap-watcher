@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 21:29:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:31:35 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] Alcohol Display Requirements</title>
+      <link>https://www.agco.ca/en/alcohol/alcohol-display-requirements</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/alcohol/alcohol-display-requirements#2026-10-13T10:43:09-04:00</guid>
+      <pubDate>Tue, 13 Oct 2026 14:43:09 GMT</pubDate>
+      <description>Updated. Last modified: Tuesday, October 13, 2026 at 10:43 AM EDT (previously Thursday, October 8, 2026 at 2:22 PM EDT)</description>
+    </item>
     <item>
       <title>[Health Canada] Bulletin</title>
       <link>https://www.canada.ca/en/health-canada/services/licences-authorizations-registrations-drug-health-products/licence-authorization-registration-forms-drug-health-products/natural-health-product-licensing/bulletin.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/november-2023.html#2026-07-31T17:05:59.936-04:00</guid>
       <pubDate>Fri, 31 Jul 2026 21:05:59 GMT</pubDate>
       <description>Updated. Last modified: Friday, July 31, 2026 at 5:05 PM EDT (previously Friday, July 31, 2026 at 5:05 PM EDT)</description>
-    </item>
-    <item>
-      <title>[Health Canada] November 2025</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/november-2025.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/november-2025.html#2026-07-31T17:06:04.678-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 21:06:04 GMT</pubDate>
-      <description>Updated. Last modified: Friday, July 31, 2026 at 5:06 PM EDT (previously Friday, July 31, 2026 at 5:06 PM EDT)</description>
     </item>
   </channel>
 </rss>

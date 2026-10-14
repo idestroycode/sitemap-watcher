@@ -6115,7 +6115,7 @@
     "https://www.agco.ca/en/alcohol/agco-educational-webcast-series": "2024-02-26T12:44:00-05:00",
     "https://www.agco.ca/en/alcohol/agco-liquor-licence-structure-under-llca": "2026-04-16T15:58:37-04:00",
     "https://www.agco.ca/en/alcohol/agco-message-liquor-licensees-about-government-ontarios-direction-bars-and-restaurants": "2024-02-26T15:22:15-05:00",
-    "https://www.agco.ca/en/alcohol/alcohol-display-requirements": "2026-10-08T14:22:11-04:00",
+    "https://www.agco.ca/en/alcohol/alcohol-display-requirements": "2026-10-13T10:43:09-04:00",
     "https://www.agco.ca/en/alcohol/alcohol-retail-convenience-and-grocery-stores-first-nations-communities": "2025-01-21T13:05:57-05:00",
     "https://www.agco.ca/en/alcohol/appendix-2-registrars-guidelines-advertising-and-promotion/guidelines-wineries-operating": "2024-08-01T15:34:56-04:00",
     "https://www.agco.ca/en/alcohol/appendix-2-registrars-guidelines-advertising-and-promotion/liquor-advertising-guidelines": "2026-06-30T13:43:00-04:00",
@@ -7571,6 +7571,17 @@
   }
 },
 "items": [
+ {
+  "id": "https://www.agco.ca/en/alcohol/alcohol-display-requirements#2026-10-13T10:43:09-04:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Alcohol Display Requirements",
+  "link": "https://www.agco.ca/en/alcohol/alcohol-display-requirements",
+  "lastmod": "2026-10-13T10:43:09-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-08T14:22:11-04:00",
+  "detectedAt": "2026-10-14T10:31:35.069Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/licences-authorizations-registrations-drug-health-products/licence-authorization-registration-forms-drug-health-products/natural-health-product-licensing/bulletin.html#2026-10-13T15:21:51.200-04:00",
   "feedId": "health-canada",
@@ -10858,17 +10869,6 @@
   "lastmod": "2026-07-31T17:05:59.936-04:00",
   "kind": "Updated",
   "previous": "2026-07-31T17:05:59.932-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/november-2025.html#2026-07-31T17:06:04.678-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "November 2025",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/november-2025.html",
-  "lastmod": "2026-07-31T17:06:04.678-04:00",
-  "kind": "Updated",
-  "previous": "2026-07-31T17:06:04.676-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
