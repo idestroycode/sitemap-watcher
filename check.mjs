@@ -13,20 +13,65 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
  *             full URL, so "gaming" also matches "igaming".
  *             In a JS string, escape backslashes: "agco\\.ca/fr"
  * ------------------------------------------------------------------ */
+
+// Keywords for every canada.ca sitemap (regular expressions, matched against the URL)
+const CANADA_KEYWORDS = [
+  "drug",
+  "controlled[-_ ]?substance", // matches controlled-substance(s), controlled_substances, ...
+  "cdsa",
+  "cannabis",
+  "vaping",
+  "tobacco",
+  "liquor",
+  "alcohol",
+  "excise",
+  "nicotine",
+];
+
 const FEEDS = [
   {
     id: "health-canada",
     name: "Health Canada",
     urls: ["https://www.canada.ca/en/health-canada.sitemap.xml"],
     mode: "include",
-    patterns: ["controlled", "drug", "cannabis", "liquor", "alcohol", "vaping", "tobacco", "nicotine"],
+    patterns: CANADA_KEYWORDS,
   },
   {
     id: "cra",
     name: "CRA",
     urls: ["https://www.canada.ca/en/revenue-agency.sitemap.xml"],
     mode: "include",
-    patterns: ["excise", "cannabis", "vaping", "alcohol", "liquor", "tobacco"],
+    patterns: CANADA_KEYWORDS,
+  },
+  {
+    // canada.ca publishes one sitemap per section. Pages whose address starts
+    // /en/services/... (e.g. /en/services/health/publications/...) are only listed here.
+    id: "canada-services",
+    name: "Canada.ca services pages",
+    urls: ["https://www.canada.ca/en/services.sitemap.xml"],
+    mode: "include",
+    patterns: CANADA_KEYWORDS,
+  },
+  {
+    id: "canada-news",
+    name: "Canada.ca news",
+    urls: ["https://www.canada.ca/en/news.sitemap.xml"],
+    mode: "include",
+    patterns: CANADA_KEYWORDS,
+  },
+  {
+    id: "public-health",
+    name: "Public Health Agency of Canada",
+    urls: ["https://www.canada.ca/en/public-health.sitemap.xml"],
+    mode: "include",
+    patterns: CANADA_KEYWORDS,
+  },
+  {
+    id: "department-finance",
+    name: "Finance Canada",
+    urls: ["https://www.canada.ca/en/department-finance.sitemap.xml"],
+    mode: "include",
+    patterns: CANADA_KEYWORDS,
   },
   {
     id: "agco",
@@ -47,13 +92,16 @@ const TIMEZONE = "America/Toronto"; // plain-language dates in emails and RSS
 const ALERT_ON_NEW_URLS = true;
 
 // A known URL only counts as "updated" if its lastmod moved forward by MORE than
-// this many seconds. Ignores sub-minute jitter (seconds/milliseconds) that makes
-// the same page look "newer" without any real edit.
-const MIN_CHANGE_SECONDS = 60;
+// this many seconds. canada.ca's sitemap reports slightly different timestamps for
+// the same page from one fetch to the next (seconds, and sometimes a few minutes),
+// so tiny differences are ignored. Real edits move the date by hours or days.
+const MIN_CHANGE_SECONDS = 600; // 10 minutes
 
+const TITLE_FETCH_LIMIT = 300;       // max pages to open per run to read their real titles
 const MAX_ITEMS = 300;              // entries kept in the RSS feeds
 const MAX_CHILD_SITEMAPS = 50;      // cap if a feed is a sitemap index
 const UA = "SitemapWatcher/1.0 (+GitHub Actions)";
+const PAGE_UA = "Mozilla/5.0 (compatible; SitemapWatcher/1.0)"; // used when opening pages to read titles
 
 /* ------------------------------------------------------------------ */
 
@@ -73,11 +121,17 @@ async function main() {
   const status = { feeds: {} };
   const newItems = [];
   const nextFeedState = {};
+  const nextSigs = {};
 
   for (const feed of FEEDS) {
     try {
-      const r = await checkFeed(feed, state.feeds[feed.id]);
+      const prev = state.feeds[feed.id];
+      // If a feed's URLs, mode or keywords changed since the last run, URLs that match
+      // for the first time are recorded silently instead of being announced as "new".
+      const sigChanged = !!prev && state.sigs[feed.id] !== feedSignature(feed);
+      const r = await checkFeed(feed, prev, { silentNew: sigChanged });
       nextFeedState[feed.id] = r.next;
+      nextSigs[feed.id] = feedSignature(feed);
       newItems.push(...r.items);
       status.feeds[feed.id] = {
         ok: true,
@@ -86,7 +140,7 @@ async function main() {
         urlsMatchingFilter: r.matched,
         newOrUpdated: r.items.length,
       };
-      console.log(`${feed.id}: ${r.baseline ? "baseline saved" : r.items.length + " new/updated"} (${r.matched} of ${r.total} URLs match filter)`);
+      console.log(`${feed.id}: ${r.baseline ? "baseline saved" : r.items.length + " new/updated"}${sigChanged ? " [settings changed: new matches recorded silently]" : ""} (${r.matched} of ${r.total} URLs match filter)`);
     } catch (err) {
       // A failed feed keeps its old state, so nothing is lost or falsely reported
       console.log(`::warning title=Feed failed::${feed.id}: ${err.message}`);
@@ -95,9 +149,13 @@ async function main() {
   }
 
   // If the email fails this throws, nothing is saved, and the next run retries.
-  if (newItems.length) await sendEmail(newItems);
+  if (newItems.length) {
+    await addFullTitles(newItems); // replaces slug-based titles with the real page titles
+    await sendEmail(newItems);
+  }
 
   for (const [id, next] of Object.entries(nextFeedState)) state.feeds[id] = next;
+  for (const [id, sig] of Object.entries(nextSigs)) state.sigs[id] = sig;
   state.items = [...newItems, ...state.items].slice(0, MAX_ITEMS);
 
   await writeOutputs(state, status);
@@ -105,7 +163,7 @@ async function main() {
 
 /* ------------------------------ core ------------------------------ */
 
-async function checkFeed(feed, prev) {
+async function checkFeed(feed, prev, opts = {}) {
   const stats = { total: 0 };
   const keep = (loc) => passes(feed, loc);
   // If any one sitemap fails, the whole feed is skipped this run.
@@ -141,7 +199,7 @@ async function checkFeed(feed, prev) {
     const old = prev[loc];
 
     if (old === undefined) {
-      if (ALERT_ON_NEW_URLS && lastmod) items.push(mk("New URL", loc, lastmod, ""));
+      if (ALERT_ON_NEW_URLS && lastmod && !opts.silentNew) items.push(mk("New URL", loc, lastmod, ""));
       merged.set(loc, lastmod);
       continue;
     }
@@ -176,6 +234,10 @@ function sortedObject(map) {
   return out;
 }
 
+function feedSignature(feed) {
+  return JSON.stringify([feed.urls, feed.mode, feed.patterns]);
+}
+
 const REGEX_CACHE = new Map();
 
 function regexesFor(feed) {
@@ -188,6 +250,80 @@ function regexesFor(feed) {
 function passes(feed, loc) {
   const hit = regexesFor(feed).some((rx) => rx.test(loc));
   return feed.mode === "include" ? hit : !hit;
+}
+
+/* ------------------------- full page titles ----------------------- */
+
+// Opens each changed page and reads its real title. Falls back to the
+// URL-based title if a page can't be fetched or has no title.
+async function addFullTitles(items) {
+  const todo = items.slice(0, TITLE_FETCH_LIMIT);
+  let next = 0;
+  let failed = 0;
+  const reasons = [];
+  const worker = async () => {
+    while (next < todo.length) {
+      const item = todo[next++];
+      try {
+        const t = await fetchPageTitle(item.link);
+        if (t) item.title = t;
+        else {
+          failed++;
+          if (reasons.length < 5) reasons.push(`${item.link}: no title found in page`);
+        }
+      } catch (err) {
+        failed++;
+        if (reasons.length < 5) reasons.push(`${item.link}: ${err.message}`);
+      }
+    }
+  };
+  await Promise.all(Array.from({ length: 5 }, worker));
+  console.log(`Page titles: ${todo.length - failed} read, ${failed} fell back to URL-based title`);
+  for (const r of reasons) console.log(`  title not read -> ${r}`);
+}
+
+async function fetchPageTitle(url) {
+  const res = await fetch(url, {
+    headers: { "user-agent": PAGE_UA, accept: "text/html,application/xhtml+xml,*/*" },
+    signal: AbortSignal.timeout(30000),
+    redirect: "follow",
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = (await res.text()).slice(0, 500000); // title and h1 are near the top
+  return extractTitle(html);
+}
+
+// Prefers <title> (minus a trailing site name such as "- Canada.ca"), falls back to <h1>.
+function extractTitle(html) {
+  let t = "";
+  const tt = /<title\b[^>]*>([\s\S]*?)<\/title>/i.exec(html);
+  if (tt) {
+    t = htmlToText(tt[1]).replace(
+      /\s*[-|–—]\s*(Canada\.ca|AGCO|Alcohol and Gaming Commission of Ontario|Government of Canada|ontario\.ca)\s*$/i,
+      ""
+    );
+  }
+  if (!t) {
+    const h1 = /<h1\b[^>]*>([\s\S]*?)<\/h1>/i.exec(html);
+    if (h1) t = htmlToText(h1[1]);
+  }
+  return t;
+}
+
+function htmlToText(s) {
+  return decodeHtml(s.replace(/<br\s*\/?>/gi, " ").replace(/<[^>]*>/g, "")).replace(/\s+/g, " ").trim();
+}
+
+function decodeHtml(s) {
+  return s
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(parseInt(d, 10)))
+    .replace(/&nbsp;/g, " ")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&amp;/g, "&");
 }
 
 /* ----------------------------- sitemap ---------------------------- */
@@ -265,9 +401,15 @@ function decodeXml(s) {
 
 function titleFromUrl(u) {
   try {
-    const parts = new URL(u).pathname.split("/").filter(Boolean);
-    const slug = decodeURIComponent(parts[parts.length - 1] || new URL(u).hostname);
-    return slug.replace(/\.[a-z0-9]+$/i, "").replace(/[-_]+/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+    const parts = new URL(u).pathname
+      .split("/")
+      .filter(Boolean)
+      .map((seg) => decodeURIComponent(seg).replace(/\.[a-z0-9]+$/i, ""));
+    let slug = parts[parts.length - 1] || new URL(u).hostname;
+    // A one-word last segment ("bulletin", "notice", "guide") says little on its own,
+    // so include the folder above it: ".../natural-health-product-licensing/bulletin.html"
+    if (!/[-_ ]/.test(slug) && parts.length > 1) slug = parts[parts.length - 2] + " " + slug;
+    return slug.replace(/[-_]+/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
   } catch {
     return u;
   }
@@ -302,9 +444,9 @@ function formatLastmod(raw) {
 async function loadState() {
   try {
     const s = JSON.parse(await readFile(STATE_FILE, "utf8"));
-    return { feeds: s.feeds || {}, items: s.items || [] };
+    return { feeds: s.feeds || {}, items: s.items || [], sigs: s.sigs || {} };
   } catch {
-    return { feeds: {}, items: [] };
+    return { feeds: {}, items: [], sigs: {} };
   }
 }
 
@@ -318,7 +460,7 @@ function serializeState(state) {
         `\n  }`
     )
     .join(",\n");
-  return `{\n"feeds": {\n${feeds}\n},\n"items": ${JSON.stringify(state.items, null, 1)}\n}\n`;
+  return `{\n"feeds": {\n${feeds}\n},\n"sigs": ${JSON.stringify(state.sigs || {}, null, 1)},\n"items": ${JSON.stringify(state.items, null, 1)}\n}\n`;
 }
 
 async function writeOutputs(state, status) {
@@ -362,7 +504,7 @@ function buildRss(title, selfUrl, items) {
       <link>${esc(i.link)}</link>
       <guid isPermaLink="false">${esc(i.id)}</guid>
       <pubDate>${toRfc822(i.lastmod)}</pubDate>
-      <description>${esc(`${i.kind}. Last modified: ${formatLastmod(i.lastmod)}${i.previous ? " (previously " + formatLastmod(i.previous) + ")" : ""}`)}</description>
+      <description>${esc(itemDescriptionHtml(i))}</description>
     </item>`
     )
     .join("\n");
@@ -382,6 +524,13 @@ ${body}
   </channel>
 </rss>
 `;
+}
+
+// HTML for the RSS description: the clickable URL comes first so it is visible even in
+// short previews; reader apps render this as a link.
+function itemDescriptionHtml(i) {
+  const when = `${i.kind}. Last modified: ${formatLastmod(i.lastmod)}${i.previous ? " (previously " + formatLastmod(i.previous) + ")" : ""}`;
+  return `<p><a href="${esc(i.link)}">${esc(i.link)}</a></p><p>${esc(when)}</p>`;
 }
 
 function indexHtml() {
@@ -425,7 +574,7 @@ async function sendEmail(items) {
         list
           .map(
             (i) =>
-              `<li><strong>${esc(i.kind)}:</strong> <a href="${esc(i.link)}">${esc(i.title)}</a><br><small>Last modified: ${esc(formatLastmod(i.lastmod))}${i.previous ? "<br>Previously: " + esc(formatLastmod(i.previous)) : ""}</small></li>`
+              `<li><strong>${esc(i.kind)}:</strong> <a href="${esc(i.link)}">${esc(i.title)}</a><br><small><a href="${esc(i.link)}">${esc(i.link)}</a><br>Last modified: ${esc(formatLastmod(i.lastmod))}${i.previous ? "<br>Previously: " + esc(formatLastmod(i.previous)) : ""}</small></li>`
           )
           .join("") +
         `</ul>`
