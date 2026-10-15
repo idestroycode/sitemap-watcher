@@ -3,15 +3,43 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14911,
-      "urlsMatchingFilter": 5828,
-      "newOrUpdated": 0
+      "urlsInSitemap": 14913,
+      "urlsMatchingFilter": 5829,
+      "newOrUpdated": 4
     },
     "cra": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 12484,
-      "urlsMatchingFilter": 272,
+      "urlsInSitemap": 12485,
+      "urlsMatchingFilter": 273,
+      "newOrUpdated": 0
+    },
+    "canada-services": {
+      "ok": true,
+      "baseline": true,
+      "urlsInSitemap": 2160,
+      "urlsMatchingFilter": 122,
+      "newOrUpdated": 0
+    },
+    "canada-news": {
+      "ok": true,
+      "baseline": true,
+      "urlsInSitemap": 74894,
+      "urlsMatchingFilter": 429,
+      "newOrUpdated": 0
+    },
+    "public-health": {
+      "ok": true,
+      "baseline": true,
+      "urlsInSitemap": 8988,
+      "urlsMatchingFilter": 223,
+      "newOrUpdated": 0
+    },
+    "department-finance": {
+      "ok": true,
+      "baseline": true,
+      "urlsInSitemap": 4492,
+      "urlsMatchingFilter": 26,
       "newOrUpdated": 0
     },
     "agco": {
