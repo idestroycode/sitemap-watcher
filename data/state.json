@@ -1392,7 +1392,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/validation/validation-guidelines-pharmaceutical-dosage-forms-0029.html": "2024-05-31T07:44:35.721-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation.html": "2023-08-28T15:54:01.883-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/advance-notice-importation-process-cosmetics-drugs.html": "2022-02-22T09:35:43.176-05:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html": "2026-10-14T07:47:42.095-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html": "2026-10-16T08:43:03.315-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/best-practices-advance-notice-importation-process-cosmetics-drugs.html": "2022-02-21T15:30:35.645-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/commercial-use-health-products-guidance.html": "2020-12-23T15:40:14.050-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/commercial-use-health-products-guidance/document.html": "2026-07-13T10:35:41.678-04:00",
@@ -2310,7 +2310,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/information-health-care-providers.html": "2026-07-31T16:53:09.860-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/information-industry.html": "2026-07-31T16:53:55.080-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list-exceptional-importation-sale.html": "2024-12-30T09:15:33.697-05:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html": "2026-10-14T07:45:47.929-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html": "2026-10-16T08:42:06.729-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive100.html": "2025-07-25T15:22:15.946-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive102.html": "2025-08-12T15:55:21.580-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive104.html": "2025-09-09T10:59:01.924-04:00",
@@ -4868,7 +4868,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/key-investors.html": "2025-05-15T14:25:04.750-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/key-investors/record-keeping.html": "2025-05-15T14:26:24.935-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/key-investors/reporting-form.html": "2025-05-15T14:26:45.142-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html": "2026-10-09T17:01:02.537-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html": "2026-10-16T10:11:55.475-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensing-summary.html": "2023-10-31T11:24:03.213-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensing-summary/after-submitting-application-cultivation-processing-sale-medical.html": "2025-04-17T13:55:59.716-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensing-summary/apply-cultivation-processing-sale-medical.html": "2025-04-17T13:54:22.275-04:00",
@@ -8402,6 +8402,39 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html#2026-10-16T08:43:03.315-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Archived Lists under the Regulations Amending Certain Regulations Concerning Drugs and Medical Devices (Shortages)",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html",
+  "lastmod": "2026-10-16T08:43:03.315-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-14T07:47:42.095-04:00",
+  "detectedAt": "2026-10-16T16:29:32.460Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html#2026-10-16T08:42:06.729-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "List of drugs for exceptional importation and sale",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html",
+  "lastmod": "2026-10-16T08:42:06.729-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-14T07:45:47.929-04:00",
+  "detectedAt": "2026-10-16T16:29:32.460Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html#2026-10-16T10:11:55.475-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Licensed cultivators, processors and sellers of cannabis under the Cannabis Act",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html",
+  "lastmod": "2026-10-16T10:11:55.475-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-09T17:01:02.537-04:00",
+  "detectedAt": "2026-10-16T16:29:32.460Z"
+ },
+ {
   "id": "https://www.agco.ca/en/general/data-inventory#2026-10-15T09:26:35-04:00",
   "feedId": "agco",
   "feedName": "AGCO",
@@ -11666,39 +11699,6 @@
   "lastmod": "2026-06-11T15:06:39.164-04:00",
   "kind": "Updated",
   "previous": "2026-06-11T15:06:39.125-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html#2026-07-15T11:30:44.428-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Improving Access",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html",
-  "lastmod": "2026-07-15T11:30:44.428-04:00",
-  "kind": "Updated",
-  "previous": "2026-07-15T11:30:44.275-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/marketing-drugs-devices/illegal-marketing/complaint-form.html#2026-07-28T15:34:57.839-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Complaint Form",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/marketing-drugs-devices/illegal-marketing/complaint-form.html",
-  "lastmod": "2026-07-28T15:34:57.839-04:00",
-  "kind": "Updated",
-  "previous": "2026-07-28T15:34:57.803-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html#2026-10-07T09:23:39.574-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Medeffect Canada",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html",
-  "lastmod": "2026-10-07T09:23:39.574-04:00",
-  "kind": "Updated",
-  "previous": "2026-10-07T09:23:39.543-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
