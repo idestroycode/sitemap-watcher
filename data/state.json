@@ -4870,7 +4870,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/key-investors.html": "2025-05-15T14:25:04.750-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/key-investors/record-keeping.html": "2025-05-15T14:26:24.935-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/key-investors/reporting-form.html": "2025-05-15T14:26:45.142-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html": "2026-10-16T10:11:55.475-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html": "2026-10-16T17:01:02.418-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensing-summary.html": "2023-10-31T11:24:03.213-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensing-summary/after-submitting-application-cultivation-processing-sale-medical.html": "2025-04-17T13:55:59.716-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensing-summary/apply-cultivation-processing-sale-medical.html": "2025-04-17T13:54:22.275-04:00",
@@ -8404,6 +8404,17 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html#2026-10-16T17:01:02.418-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Licensed cultivators, processors and sellers of cannabis under the Cannabis Act",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html",
+  "lastmod": "2026-10-16T17:01:02.418-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-16T10:11:55.475-04:00",
+  "detectedAt": "2026-10-16T22:44:17.140Z"
+ },
+ {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/establishment-licences/medical-devices-compliance-bulletin.html#2026-10-16T13:44:45.613-04:00",
   "feedId": "health-canada",
   "feedName": "Health Canada",
@@ -11690,17 +11701,6 @@
   "lastmod": "2026-08-27T10:39:53.688-04:00",
   "kind": "Updated",
   "previous": "2026-08-27T10:39:53.626-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/qualifier-pediatric-melatonin-amendment.html#2026-06-02T10:56:43.927-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Qualifier Pediatric Melatonin Amendment",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/qualifier-pediatric-melatonin-amendment.html",
-  "lastmod": "2026-06-02T10:56:43.927-04:00",
-  "kind": "Updated",
-  "previous": "2026-06-02T10:56:43.913-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
