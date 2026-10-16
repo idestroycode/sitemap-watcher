@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 20:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:50:43 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] Data Inventory</title>
+      <link>https://www.agco.ca/en/general/data-inventory</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/general/data-inventory#2026-10-15T09:26:35-04:00</guid>
+      <pubDate>Thu, 15 Oct 2026 13:26:35 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/general/data-inventory&quot;&gt;https://www.agco.ca/en/general/data-inventory&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Thursday, October 15, 2026 at 9:26 AM EDT (previously Friday, July 3, 2026 at 2:54 PM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Guidance on reporting loss or theft of controlled substances and precursors (CS-GD-005): Overview</title>
       <link>https://www.canada.ca/en/health-canada/services/publications/healthy-living/loss-theft-controlled-substances-precursors.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html#2026-10-07T09:23:39.574-04:00</guid>
       <pubDate>Wed, 07 Oct 2026 13:23:39 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 7, 2026 at 9:23 AM EDT (previously Wednesday, October 7, 2026 at 9:23 AM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Health Canada] Canada Vigilance Online Database Data Extract</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-database/canada-vigilance-online-database-data-extract.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-database/canada-vigilance-online-database-data-extract.html#2026-09-04T11:03:07.851-04:00</guid>
-      <pubDate>Fri, 04 Sep 2026 15:03:07 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-database/canada-vigilance-online-database-data-extract.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-database/canada-vigilance-online-database-data-extract.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, September 4, 2026 at 11:03 AM EDT (previously Friday, September 4, 2026 at 11:03 AM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

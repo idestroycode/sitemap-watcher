@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss/agco.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/agco.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 10:31:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:50:43 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] Data Inventory</title>
+      <link>https://www.agco.ca/en/general/data-inventory</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/general/data-inventory#2026-10-15T09:26:35-04:00</guid>
+      <pubDate>Thu, 15 Oct 2026 13:26:35 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/general/data-inventory&quot;&gt;https://www.agco.ca/en/general/data-inventory&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Thursday, October 15, 2026 at 9:26 AM EDT (previously Friday, July 3, 2026 at 2:54 PM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[AGCO] Alcohol Display Requirements</title>
       <link>https://www.agco.ca/en/alcohol/alcohol-display-requirements</link>

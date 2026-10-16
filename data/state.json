@@ -6623,7 +6623,7 @@
     "https://www.agco.ca/en/general/contact-agco": "2026-05-13T11:56:18-04:00",
     "https://www.agco.ca/en/general/current-status-ontarios-reopening-plan-agco-regulated-sectors": "2024-02-26T14:55:30-05:00",
     "https://www.agco.ca/en/general/customer-service-standards": "2026-08-31T13:52:05-04:00",
-    "https://www.agco.ca/en/general/data-inventory": "2026-07-03T14:54:06-04:00",
+    "https://www.agco.ca/en/general/data-inventory": "2026-10-15T09:26:35-04:00",
     "https://www.agco.ca/en/general/diversity-inclusion-accessibility": "2026-01-12T15:47:51-05:00",
     "https://www.agco.ca/en/general/diversity-inclusion-and-accessibility-plan-dec-2018": "2024-01-11T15:16:14-05:00",
     "https://www.agco.ca/en/general/diversity-inclusion-and-accessibility-plan-october-2020": "2022-10-18T08:26:14-04:00",
@@ -8401,6 +8401,17 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.agco.ca/en/general/data-inventory#2026-10-15T09:26:35-04:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Data Inventory",
+  "link": "https://www.agco.ca/en/general/data-inventory",
+  "lastmod": "2026-10-15T09:26:35-04:00",
+  "kind": "Updated",
+  "previous": "2026-07-03T14:54:06-04:00",
+  "detectedAt": "2026-10-16T11:50:43.126Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/publications/healthy-living/loss-theft-controlled-substances-precursors.html#2026-10-15T15:03:13.777-04:00",
   "feedId": "health-canada",
@@ -11688,17 +11699,6 @@
   "lastmod": "2026-10-07T09:23:39.574-04:00",
   "kind": "Updated",
   "previous": "2026-10-07T09:23:39.543-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-database/canada-vigilance-online-database-data-extract.html#2026-09-04T11:03:07.851-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Canada Vigilance Online Database Data Extract",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/adverse-reaction-database/canada-vigilance-online-database-data-extract.html",
-  "lastmod": "2026-09-04T11:03:07.851-04:00",
-  "kind": "Updated",
-  "previous": "2026-09-04T11:03:07.830-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
