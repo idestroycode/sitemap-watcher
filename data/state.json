@@ -5171,7 +5171,7 @@
     "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/drug-analysis-service/drug-analysis-service-summary-report-samples-analysed.html": "2018-06-26T16:01:54.285-04:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions.html": "2026-04-07T09:15:20.984-04:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions/application-form-exemption-use-controlled-substance-clinical-studies.html": "2023-07-05T15:35:16.647-04:00",
-    "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions/application-form-exemption-use-controlled-substance-scientific-purposes.html": "2023-07-05T15:36:41.485-04:00",
+    "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions/application-form-exemption-use-controlled-substance-scientific-purposes.html": "2026-10-19T13:16:04.309-04:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions/methadone-program.html": "2018-05-17T13:42:42.807-04:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/law-enforcement-information.html": "2025-12-01T11:00:43.693-05:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/law-enforcement-information/dog-training-kit.html": "2022-04-21T14:56:12.263-04:00",
@@ -6013,7 +6013,7 @@
     "https://www.canada.ca/en/revenue-agency/services/tax/excise-taxes-duties-levies/fuel-charge/remit.html": "2025-12-11T18:04:34.912-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/excise-taxes-duties-levies/fuel-charge/report.html": "2025-12-11T13:53:20.532-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html": "2025-01-21T00:00:01.000-05:00",
-    "https://www.canada.ca/en/revenue-agency/services/tax/making-payments-businesses/make-a-payment-excise-taxes-other-levies.html": "2025-08-01T16:18:42.750-04:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/making-payments-businesses/make-a-payment-excise-taxes-other-levies.html": "2026-10-19T14:15:24.146-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html": "2026-05-27T14:16:08.177-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars.html": "2026-04-15T07:58:18.317-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed200-1-licensing-requirements-manufacturers-beer-malt-liquor-wort-yeast-malt-products.html": "2026-04-15T06:00:03.492-04:00",
@@ -8403,6 +8403,28 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions/application-form-exemption-use-controlled-substance-scientific-purposes.html#2026-10-19T13:16:04.309-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Application form for an exemption to use a controlled substance for scientific purposes",
+  "link": "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/exemptions/application-form-exemption-use-controlled-substance-scientific-purposes.html",
+  "lastmod": "2026-10-19T13:16:04.309-04:00",
+  "kind": "Updated",
+  "previous": "2023-07-05T15:36:41.485-04:00",
+  "detectedAt": "2026-10-19T23:08:47.692Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/making-payments-businesses/make-a-payment-excise-taxes-other-levies.html#2026-10-19T14:15:24.146-04:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "How to make a payment for excise taxes and other levies",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/making-payments-businesses/make-a-payment-excise-taxes-other-levies.html",
+  "lastmod": "2026-10-19T14:15:24.146-04:00",
+  "kind": "Updated",
+  "previous": "2025-08-01T16:18:42.750-04:00",
+  "detectedAt": "2026-10-19T23:08:48.764Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/questions-answers-proposal-amend-food-drug-regulations-permit-use-enzyme-asparaginase-certain-food-products.html#2026-10-19T12:23:29.621-04:00",
   "feedId": "health-canada",
@@ -11679,28 +11701,6 @@
   "lastmod": "2026-08-18T08:46:46.903-04:00",
   "kind": "Updated",
   "previous": "2026-08-18T08:46:46.725-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list.html#2026-08-26T13:59:22.953-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Prescription Drug List",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list.html",
-  "lastmod": "2026-08-26T13:59:22.953-04:00",
-  "kind": "Updated",
-  "previous": "2026-08-26T13:59:22.662-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/access-list-notices.html#2026-08-26T13:59:32.664-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Access List Notices",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/access-list-notices.html",
-  "lastmod": "2026-08-26T13:59:32.664-04:00",
-  "kind": "Updated",
-  "previous": "2026-08-26T13:59:32.570-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
