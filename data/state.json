@@ -5056,7 +5056,7 @@
     "https://www.canada.ca/en/health-canada/services/environmental-workplace-health/environmental-contaminants/drugs-personal-care-products/environmental-assessment-units-1-2.html": "2017-09-05T16:20:44.258-04:00",
     "https://www.canada.ca/en/health-canada/services/environmental-workplace-health/occupational-health-safety/workplace-hazardous-materials-information-system/hazardous-substance-assessments/benzyl-alcohol.html": "2026-03-31T13:22:41.442-04:00",
     "https://www.canada.ca/en/health-canada/services/food-guide/eating-support/choosing-food-drinks/alcohol.html": "2026-03-31T16:34:22.257-04:00",
-    "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/questions-answers-proposal-amend-food-drug-regulations-permit-use-enzyme-asparaginase-certain-food-products.html": "2025-07-11T11:31:40.188-04:00",
+    "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/questions-answers-proposal-amend-food-drug-regulations-permit-use-enzyme-asparaginase-certain-food-products.html": "2026-10-19T12:23:29.621-04:00",
     "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/sugar-substitutes/sugar-alcohols-polyols-polydextrose-used-sweeteners-foods-food-safety.html": "2017-05-04T20:05:18.921-04:00",
     "https://www.canada.ca/en/health-canada/services/food-nutrition/genetically-modified-foods-other-novel-foods/scientific-opinion-regulation-gene-edited-plant-products-within-context-division-28-food-drug-regulations.html": "2024-07-24T13:55:50.068-04:00",
     "https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/amendments-food-drugs-act-bill-38.html": "2023-07-28T12:17:53.669-04:00",
@@ -6022,14 +6022,14 @@
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed200-53-guidelines-licensees-submissions-laboratory-scientific-services-division.html": "2026-04-15T06:00:08.017-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed200-55-guidelines-licensees-special-services-payable-alcoholometry-system-goods-services.html": "2026-05-22T14:00:14.803-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-10-guidelines-brew-on-premises-operations.html": "2026-04-15T06:00:20.448-04:00",
-    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-11-application-rates-excise-duty-first-hectolitres-beer-brewed-canada.html": "2026-04-15T06:00:20.587-04:00",
-    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-12-related-associated-persons-rules-brewers.html": "2026-04-15T06:00:22.509-04:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-11-application-rates-excise-duty-first-hectolitres-beer-brewed-canada.html": "2026-10-19T07:04:01.702-04:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-12-related-associated-persons-rules-brewers.html": "2026-10-19T07:17:20.413-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-13-filing-requirements-licensed-brewers.html": "2026-04-15T06:00:22.718-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-3-guidelines-brewery-operations-excise-supervision.html": "2026-04-15T06:00:11.950-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-4-guidelines-brewery-operations-beer-produced.html": "2026-04-15T06:00:12.110-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-5-guidelines-brewery-operations-loss-allowance.html": "2026-04-15T06:00:14.079-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-6-guidelines-brewery-operations-inter-brewery-shipments.html": "2026-04-15T06:00:16.061-04:00",
-    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-7-credit-entitlements.html": "2026-04-15T06:00:16.249-04:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-7-credit-entitlements.html": "2026-10-19T07:02:23.438-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-8-guidelines-brewery-operations-beer-samples-quality-control-purposes.html": "2026-04-15T06:00:18.335-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-9-guidelines-brewery-operations-destruction-duty-paid-beer.html": "2026-04-15T06:00:18.537-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-forms.html": "2026-04-15T08:01:13.715-04:00",
@@ -8403,6 +8403,50 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/questions-answers-proposal-amend-food-drug-regulations-permit-use-enzyme-asparaginase-certain-food-products.html#2026-10-19T12:23:29.621-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Questions and Answers Regarding Health Canada's Proposal to Amend the Food and Drug Regulations to Permit the Use of the Enzyme Asparaginase in Certain Food Products",
+  "link": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/questions-answers-proposal-amend-food-drug-regulations-permit-use-enzyme-asparaginase-certain-food-products.html",
+  "lastmod": "2026-10-19T12:23:29.621-04:00",
+  "kind": "Updated",
+  "previous": "2025-07-11T11:31:40.188-04:00",
+  "detectedAt": "2026-10-19T17:08:04.663Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-7-credit-entitlements.html#2026-10-19T07:02:23.438-04:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ED212-7 Credit entitlements",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-7-credit-entitlements.html",
+  "lastmod": "2026-10-19T07:02:23.438-04:00",
+  "kind": "Updated",
+  "previous": "2026-04-15T06:00:16.249-04:00",
+  "detectedAt": "2026-10-19T17:08:16.484Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-11-application-rates-excise-duty-first-hectolitres-beer-brewed-canada.html#2026-10-19T07:04:01.702-04:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ED212-11 Application of rates of excise duty on the first 75,000 hectolitres of beer brewed in Canada",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-11-application-rates-excise-duty-first-hectolitres-beer-brewed-canada.html",
+  "lastmod": "2026-10-19T07:04:01.702-04:00",
+  "kind": "Updated",
+  "previous": "2026-04-15T06:00:20.587-04:00",
+  "detectedAt": "2026-10-19T17:08:16.484Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-12-related-associated-persons-rules-brewers.html#2026-10-19T07:17:20.413-04:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ED212-12 Related or associated persons rules for brewers",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-circulars/ed212-12-related-associated-persons-rules-brewers.html",
+  "lastmod": "2026-10-19T07:17:20.413-04:00",
+  "kind": "Updated",
+  "previous": "2026-04-15T06:00:22.509-04:00",
+  "detectedAt": "2026-10-19T17:08:16.484Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html#2026-10-16T17:01:02.418-04:00",
   "feedId": "health-canada",
@@ -11657,50 +11701,6 @@
   "lastmod": "2026-08-26T13:59:32.664-04:00",
   "kind": "Updated",
   "previous": "2026-08-26T13:59:32.570-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes.html#2026-08-27T10:43:35.318-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Notices Changes",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes.html",
-  "lastmod": "2026-08-27T10:43:35.318-04:00",
-  "kind": "Updated",
-  "previous": "2026-08-27T10:43:35.221-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/guide-amend-process-notice.html#2026-08-26T14:19:37.074-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Guide Amend Process Notice",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/guide-amend-process-notice.html",
-  "lastmod": "2026-08-26T14:19:37.074-04:00",
-  "kind": "Updated",
-  "previous": "2026-08-26T14:19:37.002-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/multiple-additions-2026-06-25.html#2026-06-25T08:52:20.336-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Multiple Additions 2026 06 25",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/multiple-additions-2026-06-25.html",
-  "lastmod": "2026-06-25T08:52:20.336-04:00",
-  "kind": "Updated",
-  "previous": "2026-06-25T08:52:20.242-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/multiple-additions-2026-08-27.html#2026-08-27T10:39:53.688-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Multiple Additions 2026 08 27",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/multiple-additions-2026-08-27.html",
-  "lastmod": "2026-08-27T10:39:53.688-04:00",
-  "kind": "Updated",
-  "previous": "2026-08-27T10:39:53.626-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
