@@ -2811,7 +2811,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/highlights-reports.html": "2022-09-13T11:04:52.747-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/highlights-reports/mid-year-update-2020.html": "2020-09-09T16:04:40.579-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/highlights-reports/mid-year-update-2021.html": "2024-10-08T09:17:00.894-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html": "2026-07-15T11:30:44.428-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html": "2026-10-20T16:47:20.958-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/international-activities.html": "2026-04-20T10:21:26.976-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/international-activities/access-consortium.html": "2026-09-14T15:51:46.889-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/international-activities/access-consortium/advanced-therapy-medicinal-products-working-group.html": "2024-01-15T11:42:36.547-05:00",
@@ -8405,6 +8405,17 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html#2026-10-20T16:47:20.958-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Improving access to drugs",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html",
+  "lastmod": "2026-10-20T16:47:20.958-04:00",
+  "kind": "Updated",
+  "previous": "2026-07-15T11:30:44.428-04:00",
+  "detectedAt": "2026-10-20T23:08:59.504Z"
+ },
+ {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products.html#2026-10-20T15:09:48.637-04:00",
   "feedId": "health-canada",
   "feedName": "Health Canada",
@@ -11691,17 +11702,6 @@
   "lastmod": "2026-10-02T15:22:37.289-04:00",
   "kind": "Updated",
   "previous": "2026-10-02T15:22:37.214-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/regulations-guidance.html#2026-07-31T16:54:04.832-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Regulations Guidance",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/regulations-guidance.html",
-  "lastmod": "2026-07-31T16:54:04.832-04:00",
-  "kind": "Updated",
-  "previous": "2026-07-31T16:54:04.787-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]

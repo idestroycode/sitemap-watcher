@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 20:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:08:59 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Improving access to drugs</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html#2026-10-20T16:47:20.958-04:00</guid>
+      <pubDate>Tue, 20 Oct 2026 20:47:20 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Tuesday, October 20, 2026 at 4:47 PM EDT (previously Wednesday, July 15, 2026 at 11:30 AM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Compliance and enforcement policy for health products (POL-0001): Overview</title>
       <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html#2026-10-02T15:22:37.289-04:00</guid>
       <pubDate>Fri, 02 Oct 2026 19:22:37 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 2, 2026 at 3:22 PM EDT (previously Friday, October 2, 2026 at 3:22 PM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Health Canada] Regulations Guidance</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/regulations-guidance.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/regulations-guidance.html#2026-07-31T16:54:04.832-04:00</guid>
-      <pubDate>Fri, 31 Jul 2026 20:54:04 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/regulations-guidance.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/regulations-guidance.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, July 31, 2026 at 4:54 PM EDT (previously Friday, July 31, 2026 at 4:54 PM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
