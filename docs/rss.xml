@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 17:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:31:11 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Cannabis market data</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data/market.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data/market.html#2026-10-21T13:26:21.719-04:00</guid>
+      <pubDate>Wed, 21 Oct 2026 17:26:21 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data/market.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/research-data/market.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 21, 2026 at 1:26 PM EDT (previously Thursday, July 9, 2026 at 9:42 AM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Guidance on the Food and Drug Regulations for public health emergency drugs: Post-market requirements</title>
       <link>https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/food-drug-regulations-public-health-emergency/post-market-requirements.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/evidence-required-deeming.html#2026-07-15T12:01:30.987-04:00</guid>
       <pubDate>Wed, 15 Jul 2026 16:01:30 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/evidence-required-deeming.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/evidence-required-deeming.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, July 15, 2026 at 12:01 PM EDT (previously Wednesday, July 15, 2026 at 12:01 PM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Health Canada] Forms</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/forms.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/forms.html#2026-07-15T12:03:39.920-04:00</guid>
-      <pubDate>Wed, 15 Jul 2026 16:03:39 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/forms.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/ministerial-reliance-order-decisions-documents-drugs-foreign-regulatory-authorities/forms.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, July 15, 2026 at 12:03 PM EDT (previously Wednesday, July 15, 2026 at 12:03 PM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
