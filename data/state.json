@@ -1373,7 +1373,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/guidance-documents/survey-canadian-active-pharmaceutical-ingredients-stakeholders.html": "2017-05-04T18:56:37.685-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/inspection-summary-reports.html": "2017-05-04T18:57:29.301-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards.html": "2019-04-03T11:10:08.452-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products.html": "2026-10-20T15:09:48.637-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products.html": "2026-10-20T15:09:48.661-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products/actions-tools.html": "2026-09-15T14:40:19.264-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products/glossary.html": "2026-09-15T14:38:50.409-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/policies-standards/compliance-enforcement-health-products/guiding-principles.html": "2026-09-15T14:36:39.489-04:00",
@@ -6396,7 +6396,7 @@
     "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/cannabis-retail-seal": "2024-07-03T13:09:56-04:00",
     "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/fees-and-payment": "2025-01-02T09:02:26-05:00",
     "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/hearings-cannabis": "2024-08-01T10:49:21-04:00",
-    "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store": "2024-07-17T13:47:54-04:00",
+    "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store": "2026-10-20T15:18:22-04:00",
     "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/retail-store-pre-authorization-inspection": "2025-05-23T10:34:24-04:00",
     "https://www.agco.ca/en/cannabis/cannabis-retail-licensing/application-process": "2025-05-23T10:33:17-04:00",
     "https://www.agco.ca/en/cannabis/cannabis-retail-licensing/cannabis-retail-licences-and-authorizations": "2025-01-02T08:58:37-05:00",
@@ -8404,6 +8404,17 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store#2026-10-20T15:18:22-04:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Public Notice for a Cannabis Retail Store Authorization",
+  "link": "https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store",
+  "lastmod": "2026-10-20T15:18:22-04:00",
+  "kind": "Updated",
+  "previous": "2024-07-17T13:47:54-04:00",
+  "detectedAt": "2026-10-21T01:30:48.751Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html#2026-10-20T16:47:20.958-04:00",
   "feedId": "health-canada",
@@ -11691,17 +11702,6 @@
   "lastmod": "2026-09-16T09:18:41.578-04:00",
   "kind": "Updated",
   "previous": "2026-09-16T09:18:41.576-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html#2026-10-02T15:22:37.289-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Archive142",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html",
-  "lastmod": "2026-10-02T15:22:37.289-04:00",
-  "kind": "Updated",
-  "previous": "2026-10-02T15:22:37.214-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]

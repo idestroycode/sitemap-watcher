@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 23:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:30:48 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] Public Notice for a Cannabis Retail Store Authorization</title>
+      <link>https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store#2026-10-20T15:18:22-04:00</guid>
+      <pubDate>Tue, 20 Oct 2026 19:18:22 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store&quot;&gt;https://www.agco.ca/en/cannabis/cannabis-licensing-and-application-process/public-notice-cannabis-retail-store&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Tuesday, October 20, 2026 at 3:18 PM EDT (previously Wednesday, July 17, 2024 at 1:47 PM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Improving access to drugs</title>
       <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/improving-access.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive140.html#2026-09-16T09:18:41.578-04:00</guid>
       <pubDate>Wed, 16 Sep 2026 13:18:41 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive140.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive140.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, September 16, 2026 at 9:18 AM EDT (previously Wednesday, September 16, 2026 at 9:18 AM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Health Canada] Archive142</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html#2026-10-02T15:22:37.289-04:00</guid>
-      <pubDate>Fri, 02 Oct 2026 19:22:37 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 2, 2026 at 3:22 PM EDT (previously Friday, October 2, 2026 at 3:22 PM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
