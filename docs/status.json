@@ -5,19 +5,19 @@
       "baseline": false,
       "urlsInSitemap": 14887,
       "urlsMatchingFilter": 5831,
-      "newOrUpdated": 0
+      "newOrUpdated": 1
     },
     "cra": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 12511,
+      "urlsInSitemap": 12483,
       "urlsMatchingFilter": 273,
       "newOrUpdated": 0
     },
     "canada-services": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 2168,
+      "urlsInSitemap": 2161,
       "urlsMatchingFilter": 122,
       "newOrUpdated": 0
     },
@@ -31,7 +31,7 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 8995,
+      "urlsInSitemap": 8994,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
