@@ -778,8 +778,8 @@
     "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/clinical-information-drugs-health-products.html": "2025-12-24T10:32:00.067-05:00",
     "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/clinical-information-drugs-health-products/notice-change-disclosure-approach-class-iii-medical-devices-clinical-information.html": "2025-12-23T14:19:49.014-05:00",
     "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/generic-submissions-under-review.html": "2026-09-24T12:30:56.385-04:00",
-    "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance.html": "2025-02-24T11:01:55.789-05:00",
-    "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance/document.html": "2021-11-30T13:48:46.962-05:00",
+    "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance.html": "2026-10-22T16:15:36.347-04:00",
+    "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance/document.html": "2026-10-22T16:15:22.690-04:00",
     "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/regulatory-decision-summaries.html": "2021-11-30T07:37:23.937-05:00",
     "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/request-disclosure-confidential-business-information.html": "2021-11-30T15:46:29.959-05:00",
     "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/request-disclosure-confidential-business-information/completed-requests.html": "2021-11-30T15:38:44.316-05:00",
@@ -8407,6 +8407,28 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance.html#2026-10-22T16:15:36.347-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Guidance document on Public Release of Clinical Information: profile page",
+  "link": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance.html",
+  "lastmod": "2026-10-22T16:15:36.347-04:00",
+  "kind": "Updated",
+  "previous": "2025-02-24T11:01:55.789-05:00",
+  "detectedAt": "2026-10-22T23:31:43.631Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance/document.html#2026-10-22T16:15:22.690-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Public Release of Clinical Information: guidance document",
+  "link": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/profile-public-release-clinical-information-guidance/document.html",
+  "lastmod": "2026-10-22T16:15:22.690-04:00",
+  "kind": "Updated",
+  "previous": "2021-11-30T13:48:46.962-05:00",
+  "detectedAt": "2026-10-22T23:31:43.631Z"
+ },
+ {
   "id": "https://www.canada.ca/en/health-canada/programs/consultation-public-release-clinical-information-drug-submissions-medical-device-applications.html#2026-10-22T16:13:56.114-04:00",
   "feedId": "health-canada",
   "feedName": "Health Canada",
@@ -11682,28 +11704,6 @@
   "lastmod": "2026-10-07T14:19:39.634-04:00",
   "kind": "Updated",
   "previous": "2026-10-07T14:19:39.601-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/guide-exceptional-importation-sale-drugs-response-shortages-discontinuations-0148/submit-proposal.html#2026-10-07T14:19:20.476-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Submit Proposal",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/guide-exceptional-importation-sale-drugs-response-shortages-discontinuations-0148/submit-proposal.html",
-  "lastmod": "2026-10-07T14:19:20.476-04:00",
-  "kind": "Updated",
-  "previous": "2026-10-07T14:19:20.424-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/guide-extending-expiration-dates-marketed-drugs-response-shortages-0500.html#2026-10-07T14:41:23.894-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Guide Extending Expiration Dates Marketed Drugs Response Shortages 0500",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/guide-extending-expiration-dates-marketed-drugs-response-shortages-0500.html",
-  "lastmod": "2026-10-07T14:41:23.894-04:00",
-  "kind": "Updated",
-  "previous": "2026-10-07T14:41:23.834-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
