@@ -31,14 +31,14 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 8994,
+      "urlsInSitemap": 8993,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
     "department-finance": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 4497,
+      "urlsInSitemap": 4498,
       "urlsMatchingFilter": 26,
       "newOrUpdated": 0
     },
