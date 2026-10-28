@@ -1395,7 +1395,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/validation/validation-guidelines-pharmaceutical-dosage-forms-0029.html": "2024-05-31T07:44:35.721-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation.html": "2023-08-28T15:54:01.883-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/advance-notice-importation-process-cosmetics-drugs.html": "2022-02-22T09:35:43.176-05:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html": "2026-10-27T09:48:06.909-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html": "2026-10-28T09:15:28.897-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/best-practices-advance-notice-importation-process-cosmetics-drugs.html": "2022-02-21T15:30:35.645-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/commercial-use-health-products-guidance.html": "2020-12-23T15:40:14.050-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/commercial-use-health-products-guidance/document.html": "2026-07-13T10:35:41.678-04:00",
@@ -2321,7 +2321,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/information-health-care-providers.html": "2026-07-31T16:53:09.860-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/information-industry.html": "2026-07-31T16:53:55.080-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list-exceptional-importation-sale.html": "2024-12-30T09:15:33.697-05:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html": "2026-10-26T09:36:12.018-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html": "2026-10-28T09:15:00.595-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive100.html": "2025-07-25T15:22:15.946-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive102.html": "2025-08-12T15:55:21.580-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive104.html": "2025-09-09T10:59:01.924-04:00",
@@ -2346,6 +2346,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive140.html": "2026-09-16T09:18:41.578-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive142.html": "2026-10-02T15:22:37.289-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive146.html": "2026-10-26T09:35:57.810-04:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive147.html": "2026-10-28T09:15:13.093-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive18.html": "2023-01-25T09:10:09.756-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive19.html": "2023-02-07T10:20:08.010-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive20.html": "2023-02-16T15:41:50.670-05:00",
@@ -8420,6 +8421,39 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html#2026-10-28T09:15:28.897-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Archived Lists under the Regulations Amending Certain Regulations Concerning Drugs and Medical Devices (Shortages)",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html",
+  "lastmod": "2026-10-28T09:15:28.897-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-27T09:48:06.909-04:00",
+  "detectedAt": "2026-10-28T13:39:00.268Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html#2026-10-28T09:15:00.595-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "List of drugs for exceptional importation and sale",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list.html",
+  "lastmod": "2026-10-28T09:15:00.595-04:00",
+  "kind": "Updated",
+  "previous": "2026-10-26T09:36:12.018-04:00",
+  "detectedAt": "2026-10-28T13:39:00.268Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive147.html#2026-10-28T09:15:13.093-04:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "ARCHIVED 1. List of drugs for exceptional importation and sale [2026-10-24 to 2026-10-28]",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-shortages/list/archive147.html",
+  "lastmod": "2026-10-28T09:15:13.093-04:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-10-28T13:39:00.268Z"
+ },
+ {
   "id": "https://www.agco.ca/en/general/what-we-regulate#2026-10-27T14:26:53-04:00",
   "feedId": "agco",
   "feedName": "AGCO",
@@ -11684,39 +11718,6 @@
   "lastmod": "2026-06-01T13:57:59.722-04:00",
   "kind": "Updated",
   "previous": "2026-06-01T13:57:59.704-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/service-standards-high-volume-regulatory-authorizations/service-standard-drug-establishment-licences-under-food-drug-regulations.html#2026-06-01T14:03:47.581-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Service Standard Drug Establishment Licences Under Food Drug Regulations",
-  "link": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/service-standards-high-volume-regulatory-authorizations/service-standard-drug-establishment-licences-under-food-drug-regulations.html",
-  "lastmod": "2026-06-01T14:03:47.581-04:00",
-  "kind": "Updated",
-  "previous": "2026-06-01T14:03:47.561-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/service-standards-high-volume-regulatory-authorizations/service-standard-issuance-amendment-dealer-licence-controlled-substances.html#2026-06-01T14:06:26.533-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Service Standard Issuance Amendment Dealer Licence Controlled Substances",
-  "link": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/service-standards-high-volume-regulatory-authorizations/service-standard-issuance-amendment-dealer-licence-controlled-substances.html",
-  "lastmod": "2026-06-01T14:06:26.533-04:00",
-  "kind": "Updated",
-  "previous": "2026-06-01T14:06:26.505-04:00",
-  "detectedAt": "2026-10-09T15:11:33.452Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/service-standards-high-volume-regulatory-authorizations/service-standard-issuance-import-export-permits-controlled-substances.html#2026-06-01T14:07:53.076-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Service Standard Issuance Import Export Permits Controlled Substances",
-  "link": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/service-standards-high-volume-regulatory-authorizations/service-standard-issuance-import-export-permits-controlled-substances.html",
-  "lastmod": "2026-06-01T14:07:53.076-04:00",
-  "kind": "Updated",
-  "previous": "2026-06-01T14:07:53.048-04:00",
   "detectedAt": "2026-10-09T15:11:33.452Z"
  }
 ]
