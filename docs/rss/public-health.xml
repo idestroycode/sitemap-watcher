@@ -5,7 +5,27 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss/public-health.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/public-health.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
-
+    <lastBuildDate>Wed, 28 Oct 2026 19:05:30 GMT</lastBuildDate>
+    <item>
+      <title>[Public Health Agency of Canada] Guide to distributing drugs intended for the Canadian market for consumption or use outside Canada (GUI-0145)</title>
+      <link>https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-distributing-canadian-market-consumption-outside-canada.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-distributing-canadian-market-consumption-outside-canada.html#2026-10-28T11:22:23.127-04:00</guid>
+      <pubDate>Wed, 28 Oct 2026 15:22:23 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-distributing-canadian-market-consumption-outside-canada.html&quot;&gt;https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-distributing-canadian-market-consumption-outside-canada.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 28, 2026 at 11:22 AM EDT (previously Friday, July 31, 2026 at 5:07 PM EDT)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Public Health Agency of Canada] Guide to the exceptional importation and sale of drugs in response to drug shortages (GUI-0148)</title>
+      <link>https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-exceptional-import-sale-response-drug-shortages.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-exceptional-import-sale-response-drug-shortages.html#2026-10-28T11:20:54.787-04:00</guid>
+      <pubDate>Wed, 28 Oct 2026 15:20:54 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-exceptional-import-sale-response-drug-shortages.html&quot;&gt;https://www.canada.ca/en/public-health/services/publications/drugs-health-products/guide-exceptional-import-sale-response-drug-shortages.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 28, 2026 at 11:20 AM EDT (previously Friday, July 31, 2026 at 5:07 PM EDT)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Public Health Agency of Canada] Guide to reporting drug shortages and discontinuations</title>
+      <link>https://www.canada.ca/en/public-health/services/publications/drugs-health-products/reporting-drug-shortages-discontinuations.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-health/services/publications/drugs-health-products/reporting-drug-shortages-discontinuations.html#2026-10-28T11:23:03.890-04:00</guid>
+      <pubDate>Wed, 28 Oct 2026 15:23:03 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/public-health/services/publications/drugs-health-products/reporting-drug-shortages-discontinuations.html&quot;&gt;https://www.canada.ca/en/public-health/services/publications/drugs-health-products/reporting-drug-shortages-discontinuations.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 28, 2026 at 11:23 AM EDT (previously Friday, July 31, 2026 at 5:07 PM EDT)&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
