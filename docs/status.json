@@ -3,16 +3,16 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14917,
-      "urlsMatchingFilter": 5850,
-      "newOrUpdated": 0
+      "urlsInSitemap": 14919,
+      "urlsMatchingFilter": 5852,
+      "newOrUpdated": 13
     },
     "cra": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 12469,
+      "urlsInSitemap": 12453,
       "urlsMatchingFilter": 273,
-      "newOrUpdated": 0
+      "newOrUpdated": 5
     },
     "canada-services": {
       "ok": true,
@@ -31,7 +31,7 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 8997,
+      "urlsInSitemap": 8999,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
@@ -45,9 +45,9 @@
     "agco": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 5199,
-      "urlsMatchingFilter": 1456,
-      "newOrUpdated": 0
+      "urlsInSitemap": 5200,
+      "urlsMatchingFilter": 1457,
+      "newOrUpdated": 2
     }
   }
 }
