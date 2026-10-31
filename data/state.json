@@ -6514,7 +6514,7 @@
     "https://www.agco.ca/en/cannabis/second-allocation-stores-videos": "2024-02-26T15:21:59-05:00",
     "https://www.agco.ca/en/cannabis/standards-acts-and-regulations": "2026-06-18T17:03:51-04:00",
     "https://www.agco.ca/en/cannabis/status-current-cannabis-retail-store-applications": "2026-07-21T13:52:30-04:00",
-    "https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer": "2026-04-24T10:04:49-04:00",
+    "https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer": "2026-10-30T09:56:16-04:00",
     "https://www.agco.ca/en/cannabis/steps-permanently-close-cannabis-retail-store": "2026-05-01T14:29:19-04:00",
     "https://www.agco.ca/en/cannabis/stores-first-nations-reserves": "2024-03-25T13:51:03-04:00",
     "https://www.agco.ca/en/cannabis/supplementary-questionnaire": "2025-11-26T11:43:14-05:00",
@@ -8434,6 +8434,17 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer#2026-10-30T09:56:16-04:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Steps to become a cannabis retailer",
+  "link": "https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer",
+  "lastmod": "2026-10-30T09:56:16-04:00",
+  "kind": "Updated",
+  "previous": "2026-04-24T10:04:49-04:00",
+  "detectedAt": "2026-10-31T20:30:13.597Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/inspecting-monitoring-drug-health-products/drug-health-product-inspections.html#2026-10-30T16:03:04.856-04:00",
   "feedId": "health-canada",
@@ -11719,17 +11730,6 @@
   "title": "Guidance on controlled substances for community pharmacists and pharmacy technicians (CS-GD-022): Glossary",
   "link": "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/controlled-substances/compliance-monitoring/compliance-monitoring-controlled-substances/guidance-community-pharmacists-pharmacy-technicians/glossary.html",
   "lastmod": "2026-10-15T14:03:11.182-04:00",
-  "kind": "New URL",
-  "previous": "",
-  "detectedAt": "2026-10-15T20:15:01.700Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/controlled-substances/compliance-monitoring/compliance-monitoring-controlled-substances/guidance-community-pharmacists-pharmacy-technicians/references.html#2026-10-15T14:03:53.424-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Guidance on controlled substances for community pharmacists and pharmacy technicians (CS-GD-022): References",
-  "link": "https://www.canada.ca/en/health-canada/services/health-concerns/controlled-substances-precursor-chemicals/controlled-substances/compliance-monitoring/compliance-monitoring-controlled-substances/guidance-community-pharmacists-pharmacy-technicians/references.html",
-  "lastmod": "2026-10-15T14:03:53.424-04:00",
   "kind": "New URL",
   "previous": "",
   "detectedAt": "2026-10-15T20:15:01.700Z"
