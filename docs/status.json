@@ -12,12 +12,12 @@
       "baseline": false,
       "urlsInSitemap": 12458,
       "urlsMatchingFilter": 273,
-      "newOrUpdated": 4
+      "newOrUpdated": 1
     },
     "canada-services": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 2176,
+      "urlsInSitemap": 2177,
       "urlsMatchingFilter": 122,
       "newOrUpdated": 0
     },
@@ -31,7 +31,7 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 9000,
+      "urlsInSitemap": 9001,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
@@ -45,7 +45,7 @@
     "agco": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 5200,
+      "urlsInSitemap": 5201,
       "urlsMatchingFilter": 1457,
       "newOrUpdated": 0
     }

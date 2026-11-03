@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss/cra.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/cra.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 19:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:56:52 GMT</lastBuildDate>
+    <item>
+      <title>[CRA] EDM8-1-1 Excise warehouses</title>
+      <link>https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html#2026-11-02T14:11:50.255-05:00</guid>
+      <pubDate>Mon, 02 Nov 2026 19:11:50 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html&quot;&gt;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Monday, November 2, 2026 at 2:11 PM EST (previously Monday, November 2, 2026 at 1:48 PM EST)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[CRA] EDM1-1-1 The Excise Duty Program</title>
       <link>https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm1-1-1-excise-duty-program.html</link>
