@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss/agco.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/agco.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 20:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:57:35 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] AGCO fines Standardbred driver Louis-Philippe Roy $5,000 for comments questioning the integrity of Race Officials</title>
+      <link>https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race#2026-11-02T12:53:03-05:00</guid>
+      <pubDate>Mon, 02 Nov 2026 17:53:03 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race&quot;&gt;https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race&lt;/a&gt;&lt;/p&gt;&lt;p&gt;New URL. Last modified: Monday, November 2, 2026 at 12:53 PM EST&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[AGCO] Steps to become a cannabis retailer</title>
       <link>https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer</link>
@@ -103,13 +110,6 @@
       <guid isPermaLink="false">https://www.agco.ca/en/general/videos-and-webinars#2026-10-19T13:55:05-04:00</guid>
       <pubDate>Mon, 19 Oct 2026 17:55:05 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/general/videos-and-webinars&quot;&gt;https://www.agco.ca/en/general/videos-and-webinars&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Monday, October 19, 2026 at 1:55 PM EDT (previously Friday, May 9, 2025 at 11:18 AM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AGCO] Data Inventory</title>
-      <link>https://www.agco.ca/en/general/data-inventory</link>
-      <guid isPermaLink="false">https://www.agco.ca/en/general/data-inventory#2026-10-15T09:26:35-04:00</guid>
-      <pubDate>Thu, 15 Oct 2026 13:26:35 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/general/data-inventory&quot;&gt;https://www.agco.ca/en/general/data-inventory&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Thursday, October 15, 2026 at 9:26 AM EDT (previously Friday, July 3, 2026 at 2:54 PM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
