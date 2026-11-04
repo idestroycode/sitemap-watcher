@@ -5,7 +5,7 @@
       "baseline": false,
       "urlsInSitemap": 14935,
       "urlsMatchingFilter": 5857,
-      "newOrUpdated": 3
+      "newOrUpdated": 0
     },
     "cra": {
       "ok": true,
@@ -47,7 +47,7 @@
       "baseline": false,
       "urlsInSitemap": 5203,
       "urlsMatchingFilter": 1458,
-      "newOrUpdated": 1
+      "newOrUpdated": 0
     }
   }
 }
