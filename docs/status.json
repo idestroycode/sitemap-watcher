@@ -5,7 +5,7 @@
       "baseline": false,
       "urlsInSitemap": 14936,
       "urlsMatchingFilter": 5857,
-      "newOrUpdated": 0
+      "newOrUpdated": 9
     },
     "cra": {
       "ok": true,
@@ -31,7 +31,7 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 8998,
+      "urlsInSitemap": 8994,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
