@@ -6984,6 +6984,7 @@
     "https://www.agco.ca/en/news/agco-orders-immediate-suspension-longtooth-beverage-company-liquor-licences-after-owner": "2025-08-15T13:02:29-04:00",
     "https://www.agco.ca/en/news/agco-permits-live-racing-resume-woodbine": "2024-11-14T12:59:35-05:00",
     "https://www.agco.ca/en/news/agco-proposes-21-day-suspension-concord-bar-toop-lounge-alleging-after-hours-alcohol-service": "2026-08-13T10:22:50-04:00",
+    "https://www.agco.ca/en/news/agco-proposes-60-day-liquor-licence-suspension-toronto-bar-following-fatal-fall-patron-served": "2026-11-05T12:59:29-05:00",
     "https://www.agco.ca/en/news/agco-proposes-60-day-suspension-hamiltons-rosedale-sports-bar-eatery-alleged-over-service": "2026-06-30T09:51:43-04:00",
     "https://www.agco.ca/en/news/agco-raises-bar-equine-welfare-new-rules-effective-june-23": "2026-01-16T12:19:39-05:00",
     "https://www.agco.ca/en/news/agco-registrar-and-ceo-tom-mungham-retire-fall-2023": "2024-06-03T12:26:20-04:00",
@@ -7121,6 +7122,7 @@
     "https://www.agco.ca/en/news/approval-2026-post-time-amendment-mohawk": "2026-03-09T13:07:29-04:00",
     "https://www.agco.ca/en/news/approval-2026-post-time-amendment-woodbine": "2026-10-28T15:09:54-04:00",
     "https://www.agco.ca/en/news/approval-2026-race-date-change-flamboro": "2026-04-14T15:11:59-04:00",
+    "https://www.agco.ca/en/news/approval-2026-race-date-change-flamboro-downs": "2026-11-04T15:09:00-05:00",
     "https://www.agco.ca/en/news/approval-2026-race-date-change-kawartha": "2026-04-13T08:45:37-04:00",
     "https://www.agco.ca/en/news/approval-2026-race-date-change-mohawk": "2026-03-04T13:23:43-05:00",
     "https://www.agco.ca/en/news/approval-2026-race-date-change-woodbine": "2026-07-03T13:53:39-04:00",
@@ -8443,6 +8445,28 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.agco.ca/en/news/approval-2026-race-date-change-flamboro-downs#2026-11-04T15:09:00-05:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Approval of 2026 Race Date change at Flamboro Downs",
+  "link": "https://www.agco.ca/en/news/approval-2026-race-date-change-flamboro-downs",
+  "lastmod": "2026-11-04T15:09:00-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-06T02:31:39.689Z"
+ },
+ {
+  "id": "https://www.agco.ca/en/news/agco-proposes-60-day-liquor-licence-suspension-toronto-bar-following-fatal-fall-patron-served#2026-11-05T12:59:29-05:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "AGCO proposes 60-day liquor licence suspension to Toronto bar following fatal fall of patron served more than 21 standard drinks",
+  "link": "https://www.agco.ca/en/news/agco-proposes-60-day-liquor-licence-suspension-toronto-bar-following-fatal-fall-patron-served",
+  "lastmod": "2026-11-05T12:59:29-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-06T02:31:39.689Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/information-health-product/drugs/nitrosamine-impurities.html#2026-11-05T13:53:35.122-05:00",
   "feedId": "health-canada",
@@ -11719,28 +11743,6 @@
   "lastmod": "2026-10-21T09:19:49.217-04:00",
   "kind": "Updated",
   "previous": "2024-12-18T09:08:35.858-05:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/food-drug-regulations-public-health-emergency/references-contacts.html#2026-10-21T09:07:24.551-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "References, key contacts: Guidance on the Food and Drug Regulations for public health emergency drugs",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/food-drug-regulations-public-health-emergency/references-contacts.html",
-  "lastmod": "2026-10-21T09:07:24.551-04:00",
-  "kind": "Updated",
-  "previous": "2026-09-09T12:20:07.248-04:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/human-veterinary-drug-submissions-based-promising-evidence-terms-conditions/post-market-safety.html#2026-10-21T09:19:44.636-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Post-market safety: Draft guidance on human and veterinary drug submissions based on promising evidence and terms and conditions",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/human-veterinary-drug-submissions-based-promising-evidence-terms-conditions/post-market-safety.html",
-  "lastmod": "2026-10-21T09:19:44.636-04:00",
-  "kind": "Updated",
-  "previous": "2025-12-12T11:12:56.557-05:00",
   "detectedAt": "2026-10-21T17:03:59.134Z"
  }
 ]
