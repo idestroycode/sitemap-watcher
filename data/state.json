@@ -195,6 +195,7 @@
     "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/departmental-performance-reports/2023-24-supplementary-information-tables/renewed-canadian-drugs-substances-strategy-horizontal-initiative.html": "2024-12-17T11:02:50.916-05:00",
     "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/departmental-performance-reports/2024-25-supplementary-information-tables/renewal-funding-existing-federal-framework-legalization-regulation-cannabis-canada-horizontal-initiative.html": "2025-11-07T12:37:48.186-05:00",
     "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/departmental-performance-reports/2024-25-supplementary-information-tables/renewed-canadian-drugs-substances-strategy-horizontal-initiative.html": "2025-11-07T12:39:19.663-05:00",
+    "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/departmental-performance-reports/2025-26-supplementary-information-tables/renewed-canadian-drugs-substances-strategy-horizontal-initiative.html": "2026-11-06T15:36:11.715-05:00",
     "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/biologic-radiopharmaceutical-drugs-program-2019-2024.html": "2025-08-15T16:03:01.350-04:00",
     "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/canadian-drugs-substances-strategy.html": "2023-12-22T15:09:51.760-05:00",
     "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/evaluation/horizontal-evaluation-legalization-strict-regulation-cannabis-2017-2018-2021-2222.html": "2023-04-12T16:15:04.782-04:00",
@@ -1828,7 +1829,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/pharmaceutical-life-sciences-sector-task-force.html": "2026-07-24T11:00:42.833-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/pharmaceutical-life-sciences-sector-task-force/membership-engagement.html": "2026-07-24T11:01:33.733-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/pharmaceutical-life-sciences-sector-task-force/report-ministers-health-industry.html": "2026-07-24T11:02:30.481-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/phased-implementation-ich-m11-clinical-electronic-structured-harmonised-protocol-notice.html": "2026-11-06T08:28:22.929-05:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/phased-implementation-ich-m11-clinical-electronic-structured-harmonised-protocol-notice.html": "2026-11-06T08:28:22.946-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/pilot-pediatric-standard-care-clinical-trials-notice.html": "2026-10-14T09:54:18.110-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/premarket-transparency-initiatives-notice.html": "2022-02-23T12:57:38.332-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/prioritize-generic-drug-submissions-notice.html": "2026-09-01T16:11:35.185-04:00",
@@ -2035,7 +2036,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/inhalers/release-final-guidance-document-data-requirements-safety-effectiveness-subsequent-market-entry-steroid-nasal-products-use-treatment-allergic-rhinitis.html": "2017-05-04T19:16:18.904-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation.html": "2022-02-15T15:44:02.492-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html": "2026-01-12T13:33:47.310-05:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/guidelines.html": "2026-11-06T08:29:44.674-05:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/guidelines.html": "2026-11-06T08:29:44.739-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/guidelines/annual-summary-report-checklist-including-psur-pbrer.html": "2024-09-03T13:36:51.949-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/guidelines/appendix-decision-tree-data-evaluation-retest-period-shelf-life-estimation-drug-substances-products-excluding-frozen-products-guidance-industry.html": "2024-09-03T13:55:14.789-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/guidelines/guidance-document-development-safety-update-report-dsur-international-conference-harmonisation-topic.html": "2024-09-03T13:39:07.547-04:00",
@@ -8446,6 +8447,17 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/departmental-performance-reports/2025-26-supplementary-information-tables/renewed-canadian-drugs-substances-strategy-horizontal-initiative.html#2026-11-06T15:36:11.715-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Renewed Canadian drugs and substances strategy (Horizontal initiative)",
+  "link": "https://www.canada.ca/en/health-canada/corporate/transparency/corporate-management-reporting/departmental-performance-reports/2025-26-supplementary-information-tables/renewed-canadian-drugs-substances-strategy-horizontal-initiative.html",
+  "lastmod": "2026-11-06T15:36:11.715-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-06T21:50:53.057Z"
+ },
+ {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements/phased-implementation-ich-m11-clinical-electronic-structured-harmonised-protocol-notice.html#2026-11-06T08:28:22.929-05:00",
   "feedId": "health-canada",
   "feedName": "Health Canada",
@@ -11732,17 +11744,6 @@
   "lastmod": "2026-10-21T09:19:42.635-04:00",
   "kind": "Updated",
   "previous": "2026-05-22T13:36:17.836-04:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/forms/foreign-regulatory-actions-safety-risk1.html#2026-10-21T09:07:20.672-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Notifying Health Canada of Foreign Actions in respect of a Serious Risk of Injury to Human Health",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/forms/foreign-regulatory-actions-safety-risk1.html",
-  "lastmod": "2026-10-21T09:07:20.672-04:00",
-  "kind": "New URL",
-  "previous": "",
   "detectedAt": "2026-10-21T17:03:59.134Z"
  }
 ]

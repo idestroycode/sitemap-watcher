@@ -3,14 +3,14 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14937,
-      "urlsMatchingFilter": 5857,
-      "newOrUpdated": 3
+      "urlsInSitemap": 14948,
+      "urlsMatchingFilter": 5858,
+      "newOrUpdated": 1
     },
     "cra": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 12459,
+      "urlsInSitemap": 12468,
       "urlsMatchingFilter": 273,
       "newOrUpdated": 0
     },
@@ -31,14 +31,14 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 8995,
+      "urlsInSitemap": 9002,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
     "department-finance": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 4519,
+      "urlsInSitemap": 4538,
       "urlsMatchingFilter": 27,
       "newOrUpdated": 0
     },
