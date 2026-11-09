@@ -3479,7 +3479,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/guide-reporting-shortages-discontinuations/when-how-report.html": "2026-10-07T14:39:59.228-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/guide-reporting-shortages-discontinuations/who-must-report.html": "2026-10-07T14:40:57.256-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/hc-class-face-shield.html": "2022-03-24T17:17:03.598-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list.html": "2026-11-05T09:05:48.480-05:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list.html": "2026-11-09T09:13:37.462-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list/acpi-11-capsular-tension-ring-2026-01-21.html": "2026-01-22T08:46:42.623-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list/acpi-11-capsular-tension-ring.html": "2025-11-10T16:16:05.773-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list/acucare-f1-4-ffm.html": "2024-03-18T15:34:44.038-04:00",
@@ -5875,7 +5875,7 @@
     "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/buying-safe-sexual-enhancement-products.html": "2021-06-10T14:07:49.238-04:00",
     "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/kratom-health-risks.html": "2021-06-21T09:57:55.635-04:00",
     "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/non-prescription-drug-labels.html": "2018-09-28T18:25:16.636-04:00",
-    "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-bodybuilding-products.html": "2026-10-23T13:31:47.218-04:00",
+    "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-bodybuilding-products.html": "2026-11-09T08:38:08.960-05:00",
     "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-online-pharmacies.html": "2021-06-10T14:07:49.289-04:00",
     "https://www.canada.ca/en/health-canada/topics/cannabis-for-medical-purposes.html": "2026-01-22T15:36:34.108-05:00",
     "https://www.canada.ca/en/health-canada/topics/drug-health-products-available-canada.html": "2025-03-20T10:07:37.974-04:00",
@@ -7001,6 +7001,7 @@
     "https://www.agco.ca/en/news/agco-soliciting-retail-cannabis-stakeholder-views-cannabis-inducements": "2024-06-03T12:21:11-04:00",
     "https://www.agco.ca/en/news/agco-statement-positive-tests-capsaicin": "2024-06-03T15:35:46-04:00",
     "https://www.agco.ca/en/news/agco-statement-temporary-racing-disruption-woodbine-racetrack": "2026-07-04T12:05:58-04:00",
+    "https://www.agco.ca/en/news/agco-supports-iagrs-illegal-gambling-awareness-week-help-consumers-identify-and-avoid": "2026-11-09T12:19:45-05:00",
     "https://www.agco.ca/en/news/agco-suspends-and-moves-revoke-liquor-licence-bar-karma-toronto": "2024-10-04T14:38:55-04:00",
     "https://www.agco.ca/en/news/agco-suspends-and-moves-revoke-liquor-licence-cage-ktv-bar-north-york": "2024-10-04T15:42:25-04:00",
     "https://www.agco.ca/en/news/agco-suspends-and-moves-revoke-liquor-licence-efs-social-club-toronto-following-fatal-shooting": "2024-10-04T15:35:36-04:00",
@@ -7412,6 +7413,7 @@
     "https://www.agco.ca/en/news/options-charitable-lotteries-during-covid-19-pandemic": "2024-06-04T10:52:18-04:00",
     "https://www.agco.ca/en/news/over-50000-new-smart-serve-registrations-first-three-days-free-registrations-agco-and-smart": "2024-06-03T16:27:12-04:00",
     "https://www.agco.ca/en/news/over-86-ontarios-online-gamblers-play-regulated-sites-study": "2024-10-04T15:51:22-04:00",
+    "https://www.agco.ca/en/news/overcrowding-puts-patrons-risk": "2026-11-09T09:18:24-05:00",
     "https://www.agco.ca/en/news/period-free-enrollment-smart-serve-responsible-alcohol-sales-and-service-training-program-has": "2024-06-03T16:26:48-04:00",
     "https://www.agco.ca/en/news/precautionary-measures-place-after-single-case-ehv-1-identified-barn-woodbine-racetrack": "2026-01-16T12:12:01-05:00",
     "https://www.agco.ca/en/news/proclamation-bill-c-218-paves-way-regulated-single-event-sports-betting-ontario": "2025-08-06T13:39:28-04:00",
@@ -8446,6 +8448,50 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list.html#2026-11-09T09:13:37.462-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Medical device shortages: List of shortages and discontinuations",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list.html",
+  "lastmod": "2026-11-09T09:13:37.462-05:00",
+  "kind": "Updated",
+  "previous": "2026-11-05T09:05:48.480-05:00",
+  "detectedAt": "2026-11-09T19:09:56.580Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-bodybuilding-products.html#2026-11-09T08:38:08.960-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Using bodybuilding products",
+  "link": "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-bodybuilding-products.html",
+  "lastmod": "2026-11-09T08:38:08.960-05:00",
+  "kind": "Updated",
+  "previous": "2026-10-23T13:31:47.218-04:00",
+  "detectedAt": "2026-11-09T19:09:56.580Z"
+ },
+ {
+  "id": "https://www.agco.ca/en/news/overcrowding-puts-patrons-risk#2026-11-09T09:18:24-05:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Overcrowding puts patrons at risk",
+  "link": "https://www.agco.ca/en/news/overcrowding-puts-patrons-risk",
+  "lastmod": "2026-11-09T09:18:24-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-09T19:10:52.898Z"
+ },
+ {
+  "id": "https://www.agco.ca/en/news/agco-supports-iagrs-illegal-gambling-awareness-week-help-consumers-identify-and-avoid#2026-11-09T12:19:45-05:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "AGCO Supports IAGR’S Illegal Gambling Awareness Week To Help Consumers Identify And Avoid Unregulated Online Gambling Sites",
+  "link": "https://www.agco.ca/en/news/agco-supports-iagrs-illegal-gambling-awareness-week-help-consumers-identify-and-avoid",
+  "lastmod": "2026-11-09T12:19:45-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-09T19:10:52.898Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html#2026-11-06T17:01:02.570-05:00",
   "feedId": "health-canada",
@@ -11701,50 +11747,6 @@
   "kind": "Updated",
   "previous": "2026-07-09T09:42:51.650-04:00",
   "detectedAt": "2026-10-21T20:31:11.474Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/food-drug-regulations-public-health-emergency/post-market-requirements.html#2026-10-21T09:19:35.108-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Guidance on the Food and Drug Regulations for public health emergency drugs: Post-market requirements",
-  "link": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/food-drug-regulations-public-health-emergency/post-market-requirements.html",
-  "lastmod": "2026-10-21T09:19:35.108-04:00",
-  "kind": "Updated",
-  "previous": "2022-12-16T14:28:59.192-05:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/food-drug-regulations-public-health-emergency/references-contacts.html#2026-10-21T09:07:26.553-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Guidance on the Food and Drug Regulations for public health emergency drugs: References, key contacts",
-  "link": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/food-drug-regulations-public-health-emergency/references-contacts.html",
-  "lastmod": "2026-10-21T09:07:26.553-04:00",
-  "kind": "Updated",
-  "previous": "2026-09-09T12:19:33.378-04:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/guidance-documents/guidance-evidence-demonstrate-drug-compliance-foreign-sites-0080/potential-gmp-issues-reassessing-nc-ratings.html#2026-10-21T09:19:32.400-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "How to demonstrate foreign building compliance with drug good manufacturing practices (GUI-0080): Potential GMP issues, reassessing NC ratings",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/guidance-documents/guidance-evidence-demonstrate-drug-compliance-foreign-sites-0080/potential-gmp-issues-reassessing-nc-ratings.html",
-  "lastmod": "2026-10-21T09:19:32.400-04:00",
-  "kind": "Updated",
-  "previous": "2025-07-02T12:12:28.166-04:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/guidance-documents/pharmacovigilance-guidelines-0102/regulations.html#2026-10-21T09:27:00.432-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Good pharmacovigilance practices (GVP) guidelines (GUI-0102): The regulations",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/guidance-documents/pharmacovigilance-guidelines-0102/regulations.html",
-  "lastmod": "2026-10-21T09:27:00.432-04:00",
-  "kind": "Updated",
-  "previous": "2026-06-29T10:27:31.690-04:00",
-  "detectedAt": "2026-10-21T17:03:59.134Z"
  }
 ]
 }

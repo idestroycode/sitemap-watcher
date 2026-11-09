@@ -3,9 +3,9 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14949,
+      "urlsInSitemap": 14925,
       "urlsMatchingFilter": 5858,
-      "newOrUpdated": 0
+      "newOrUpdated": 2
     },
     "cra": {
       "ok": true,
@@ -38,16 +38,16 @@
     "department-finance": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 4539,
+      "urlsInSitemap": 4541,
       "urlsMatchingFilter": 27,
       "newOrUpdated": 0
     },
     "agco": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 5207,
-      "urlsMatchingFilter": 1460,
-      "newOrUpdated": 0
+      "urlsInSitemap": 5211,
+      "urlsMatchingFilter": 1462,
+      "newOrUpdated": 2
     }
   }
 }
