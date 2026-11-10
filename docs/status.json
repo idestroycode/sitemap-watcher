@@ -3,7 +3,7 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14925,
+      "urlsInSitemap": 14927,
       "urlsMatchingFilter": 5858,
       "newOrUpdated": 2
     },
@@ -12,7 +12,7 @@
       "baseline": false,
       "urlsInSitemap": 12468,
       "urlsMatchingFilter": 273,
-      "newOrUpdated": 0
+      "newOrUpdated": 7
     },
     "canada-services": {
       "ok": true,
@@ -31,14 +31,14 @@
     "public-health": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 9002,
+      "urlsInSitemap": 9000,
       "urlsMatchingFilter": 223,
       "newOrUpdated": 0
     },
     "department-finance": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 4541,
+      "urlsInSitemap": 4544,
       "urlsMatchingFilter": 27,
       "newOrUpdated": 0
     },
@@ -47,7 +47,7 @@
       "baseline": false,
       "urlsInSitemap": 5211,
       "urlsMatchingFilter": 1462,
-      "newOrUpdated": 2
+      "newOrUpdated": 0
     }
   }
 }
