@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Nov 2026 22:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:09:51 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Consultation on proposed amendments to the Cannabis Tracking System Order</title>
+      <link>https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html#2026-11-12T11:01:45.941-05:00</guid>
+      <pubDate>Thu, 12 Nov 2026 16:01:45 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html&quot;&gt;https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Thursday, November 12, 2026 at 11:01 AM EST (previously Friday, September 25, 2026 at 3:15 PM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Archived Lists under the Regulations Amending Certain Regulations Concerning Drugs and Medical Devices (Shortages)</title>
       <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html#2026-10-23T14:56:09.400-04:00</guid>
       <pubDate>Fri, 23 Oct 2026 18:56:09 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html&quot;&gt;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 23, 2026 at 2:56 PM EDT (previously Wednesday, April 15, 2026 at 6:00 AM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Canada.ca services pages] Publications – Drugs and health products</title>
-      <link>https://www.canada.ca/en/services/health/publications/drugs-health-products.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/services/health/publications/drugs-health-products.html#2026-10-23T14:17:51.902-04:00</guid>
-      <pubDate>Fri, 23 Oct 2026 18:17:51 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/services/health/publications/drugs-health-products.html&quot;&gt;https://www.canada.ca/en/services/health/publications/drugs-health-products.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 23, 2026 at 2:17 PM EDT (previously Wednesday, October 21, 2026 at 9:07 AM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -611,7 +611,7 @@
     "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/regulatory-cooperation-veterinary-drug-simultaneous-reviews-united-states/pre-submission.html": "2022-12-16T14:32:12.276-05:00",
     "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/regulatory-cooperation-veterinary-drug-simultaneous-reviews-united-states/review-process.html": "2023-01-11T11:57:31.129-05:00",
     "https://www.canada.ca/en/health-canada/programs/consultation-proposed-agile-regulations-guidance-licensing-drugs-medical-devices/regulatory-cooperation-veterinary-drug-simultaneous-reviews-united-states/submission-filing.html": "2022-12-16T14:32:12.050-05:00",
-    "https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html": "2026-09-25T15:15:15.615-04:00",
+    "https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html": "2026-11-12T11:01:45.941-05:00",
     "https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-regulations-cannabis-streamlining-requirements.html": "2025-07-15T13:14:55.921-04:00",
     "https://www.canada.ca/en/health-canada/programs/consultation-proposed-approach-cost-recovery-cannabis.html": "2025-03-03T07:45:03.907-05:00",
     "https://www.canada.ca/en/health-canada/programs/consultation-proposed-approach-cost-recovery-cannabis/document.html": "2018-07-12T13:28:10.032-04:00",
@@ -8451,6 +8451,17 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html#2026-11-12T11:01:45.941-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Consultation on proposed amendments to the Cannabis Tracking System Order",
+  "link": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html",
+  "lastmod": "2026-11-12T11:01:45.941-05:00",
+  "kind": "Updated",
+  "previous": "2026-09-25T15:15:15.615-04:00",
+  "detectedAt": "2026-11-12T19:09:51.538Z"
+ },
+ {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/importation-exportation/archived-lists.html#2026-11-10T16:05:09.769-05:00",
   "feedId": "health-canada",
   "feedName": "Health Canada",
@@ -11738,17 +11749,6 @@
   "kind": "Updated",
   "previous": "2026-04-15T06:00:26.757-04:00",
   "detectedAt": "2026-10-23T19:58:32.968Z"
- },
- {
-  "id": "https://www.canada.ca/en/services/health/publications/drugs-health-products.html#2026-10-23T14:17:51.902-04:00",
-  "feedId": "canada-services",
-  "feedName": "Canada.ca services pages",
-  "title": "Publications – Drugs and health products",
-  "link": "https://www.canada.ca/en/services/health/publications/drugs-health-products.html",
-  "lastmod": "2026-10-23T14:17:51.902-04:00",
-  "kind": "Updated",
-  "previous": "2026-10-21T09:07:16.347-04:00",
-  "detectedAt": "2026-10-23T19:58:35.202Z"
  }
 ]
 }
