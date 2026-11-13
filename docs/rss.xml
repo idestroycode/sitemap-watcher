@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 19:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:15:17 GMT</lastBuildDate>
+    <item>
+      <title>[Health Canada] Non-contact infrared thermometers (NCIT)</title>
+      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html#2026-11-12T13:45:07.635-05:00</guid>
+      <pubDate>Thu, 12 Nov 2026 18:45:07 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Thursday, November 12, 2026 at 1:45 PM EST (previously Tuesday, February 16, 2021 at 12:56 PM EST)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Consultation on proposed amendments to the Cannabis Tracking System Order</title>
       <link>https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-1-4-alcohol-registrants.html#2026-10-23T14:53:38.140-04:00</guid>
       <pubDate>Fri, 23 Oct 2026 18:53:38 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-1-4-alcohol-registrants.html&quot;&gt;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-1-4-alcohol-registrants.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 23, 2026 at 2:53 PM EDT (previously Wednesday, April 15, 2026 at 6:00 AM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[CRA] EDM3-2-3 Labelling of containers of spirits</title>
-      <link>https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html#2026-10-23T14:56:09.400-04:00</guid>
-      <pubDate>Fri, 23 Oct 2026 18:56:09 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html&quot;&gt;https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 23, 2026 at 2:56 PM EDT (previously Wednesday, April 15, 2026 at 6:00 AM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

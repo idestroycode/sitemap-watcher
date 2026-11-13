@@ -1665,7 +1665,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/interim-order-2-import-sale-medical-devices/explanatory-note.html": "2023-02-22T11:26:42.954-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/interim-order-2-import-sale-medical-devices/notice.html": "2023-02-22T11:29:23.429-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/list-authorized-trials.html": "2025-09-26T15:23:54.777-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html": "2021-02-16T12:56:02.054-05:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html": "2026-11-12T13:45:07.635-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/personal-protective-equipment/medical-gloves.html": "2024-04-10T08:45:35.119-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/personal-protective-equipment/medical-masks-respirators/safety-performance-specifications/appendix-a-quality-control-plans.html": "2024-01-03T12:39:17.301-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/personal-protective-equipment/medical-masks-respirators/safety-performance-specifications/appendix-b-checklist.html": "2024-01-03T12:39:22.983-05:00",
@@ -8451,6 +8451,17 @@
 },
 "items": [
  {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html#2026-11-12T13:45:07.635-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Non-contact infrared thermometers (NCIT)",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/medical-devices/non-contact-infrared-thermometers.html",
+  "lastmod": "2026-11-12T13:45:07.635-05:00",
+  "kind": "Updated",
+  "previous": "2021-02-16T12:56:02.054-05:00",
+  "detectedAt": "2026-11-13T00:15:17.071Z"
+ },
+ {
   "id": "https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-cannabis-tracking-system-order.html#2026-11-12T11:01:45.941-05:00",
   "feedId": "health-canada",
   "feedName": "Health Canada",
@@ -11737,17 +11748,6 @@
   "lastmod": "2026-10-23T14:53:38.140-04:00",
   "kind": "Updated",
   "previous": "2026-04-15T06:00:26.700-04:00",
-  "detectedAt": "2026-10-23T19:58:32.968Z"
- },
- {
-  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html#2026-10-23T14:56:09.400-04:00",
-  "feedId": "cra",
-  "feedName": "CRA",
-  "title": "EDM3-2-3 Labelling of containers of spirits",
-  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm3-2-3-labelling-containers-spirits.html",
-  "lastmod": "2026-10-23T14:56:09.400-04:00",
-  "kind": "Updated",
-  "previous": "2026-04-15T06:00:26.757-04:00",
   "detectedAt": "2026-10-23T19:58:32.968Z"
  }
 ]
