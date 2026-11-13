@@ -5,7 +5,7 @@
       "baseline": false,
       "urlsInSitemap": 14937,
       "urlsMatchingFilter": 5859,
-      "newOrUpdated": 1
+      "newOrUpdated": 0
     },
     "cra": {
       "ok": true,
@@ -38,7 +38,7 @@
     "department-finance": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 4550,
+      "urlsInSitemap": 4552,
       "urlsMatchingFilter": 27,
       "newOrUpdated": 0
     },
