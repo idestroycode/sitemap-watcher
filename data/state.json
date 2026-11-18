@@ -5321,7 +5321,7 @@
     "https://www.canada.ca/en/health-canada/services/health-concerns/reports-publications/tobacco/toolkit-responsible-tobacco-retailers-british-columbia.html": "2021-01-07T15:24:13.799-05:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/reports-publications/tobacco/towards-healthier-workplace-guidebook-tobacco-control-policies.html": "2023-07-07T14:01:21.635-04:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/reports-publications/tobacco/youth-tobacco-lessons-learned.html": "2017-05-04T20:24:51.270-04:00",
-    "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco.html": "2025-05-29T10:28:57.432-04:00",
+    "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco.html": "2026-11-17T14:26:25.995-05:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco/about-tobacco-control.html": "2023-07-17T09:40:42.602-04:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco/about-tobacco-control/health-canada-tobacco-control-programme.html": "2026-01-20T07:18:06.252-05:00",
     "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco/about-tobacco-control/tobacco-control-canada.html": "2026-01-20T07:17:56.113-05:00",
@@ -6159,9 +6159,14 @@
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html": "2026-04-16T13:19:51.722-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-memoranda.html": "2026-04-16T13:17:32.434-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices.html": "2026-06-24T13:24:45.598-04:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/application-excise-tax-fuel-sold-canada-immediate-export.html": "2026-11-17T16:45:46.531-05:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/budget-2016-restricting-relief-excise-tax-on-diesel-fuel-aviation-fuel.html": "2026-11-17T16:16:39.839-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/etsl82-proposed-temporary-rate-reductions-excise-tax-on-certain-types-fuel.html": "2026-10-30T11:17:35.276-04:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/information-vendors-purchasers-end-users-regarding-application-excise-tax-fuel-use-ships-stores.html": "2026-11-17T16:37:14.023-05:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/notice-excise-tax-licensees-canadian-fuel-industry-sector.html": "2026-11-17T16:23:37.444-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/notice-manufacturers-wholesalers-refined-petroleum-products.html": "2026-11-17T09:53:14.715-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/notice-tax-practitioners-licensed-manufacturers-wholesalers-filers-end-user-refunds-under-excise-tax-act.html": "2026-11-17T11:03:17.999-05:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/proposed-amendment-ships-stores-regulations-include-renewable-fuels.html": "2026-11-17T15:38:09.656-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/statutory-end-user-refund-program-elimination-excise-tax-exemption-renewable-fuels.html": "2026-11-17T11:54:22.108-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/list-vehicles-associated-rates-excise-tax-fuel-inefficient-vehicles.html": "2026-10-07T08:48:47.565-04:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst/excise-gst-hst-news.html": "2026-09-03T11:20:58.353-04:00"
@@ -8460,6 +8465,72 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco.html#2026-11-17T14:26:25.995-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Tobacco",
+  "link": "https://www.canada.ca/en/health-canada/services/health-concerns/tobacco.html",
+  "lastmod": "2026-11-17T14:26:25.995-05:00",
+  "kind": "Updated",
+  "previous": "2025-05-29T10:28:57.432-04:00",
+  "detectedAt": "2026-11-17T23:59:57.829Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/proposed-amendment-ships-stores-regulations-include-renewable-fuels.html#2026-11-17T15:38:09.656-05:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ETSL69 Proposed amendment to the Ships' Stores Regulations to include renewable fuels",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/proposed-amendment-ships-stores-regulations-include-renewable-fuels.html",
+  "lastmod": "2026-11-17T15:38:09.656-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-18T00:00:09.003Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/notice-excise-tax-licensees-canadian-fuel-industry-sector.html#2026-11-17T16:23:37.444-05:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ETSL76 Notice to excise tax licensees in the Canadian fuel industry sector",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/notice-excise-tax-licensees-canadian-fuel-industry-sector.html",
+  "lastmod": "2026-11-17T16:23:37.444-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-18T00:00:09.003Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/budget-2016-restricting-relief-excise-tax-on-diesel-fuel-aviation-fuel.html#2026-11-17T16:16:39.839-05:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ETSL77 Budget 2016 – Restricting the relief of excise tax on diesel fuel and aviation fuel",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/budget-2016-restricting-relief-excise-tax-on-diesel-fuel-aviation-fuel.html",
+  "lastmod": "2026-11-17T16:16:39.839-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-18T00:00:09.003Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/information-vendors-purchasers-end-users-regarding-application-excise-tax-fuel-use-ships-stores.html#2026-11-17T16:37:14.023-05:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ETSL78 Information for vendors, purchasers and end-users regarding the application of the excise tax on fuel for use as ships' stores",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/information-vendors-purchasers-end-users-regarding-application-excise-tax-fuel-use-ships-stores.html",
+  "lastmod": "2026-11-17T16:37:14.023-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-18T00:00:09.003Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/application-excise-tax-fuel-sold-canada-immediate-export.html#2026-11-17T16:45:46.531-05:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "ETSL79 Application of the excise tax to fuel sold in Canada for immediate export",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies/excise-taxes-special-levies-notices/application-excise-tax-fuel-sold-canada-immediate-export.html",
+  "lastmod": "2026-11-17T16:45:46.531-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-18T00:00:09.003Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/shortages/list.html#2026-11-17T09:30:56.028-05:00",
   "feedId": "health-canada",
@@ -11692,72 +11763,6 @@
   "lastmod": "2026-10-23T15:47:09.276-04:00",
   "kind": "Updated",
   "previous": "2026-09-24T10:57:47.286-04:00",
-  "detectedAt": "2026-10-23T19:58:30.853Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-completed.html#2026-10-23T15:47:19.327-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Drug and Health Product Submissions Under Review (SUR): New drug submissions completed",
-  "link": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-completed.html",
-  "lastmod": "2026-10-23T15:47:19.327-04:00",
-  "kind": "Updated",
-  "previous": "2026-09-24T10:58:46.833-04:00",
-  "detectedAt": "2026-10-23T19:58:30.853Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-completed.html#2026-10-23T15:47:26.224-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Drug and Health Product Submissions Under Review (SUR): Supplemental submissions completed",
-  "link": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-completed.html",
-  "lastmod": "2026-10-23T15:47:26.224-04:00",
-  "kind": "Updated",
-  "previous": "2026-09-24T10:59:41.353-04:00",
-  "detectedAt": "2026-10-23T19:58:30.853Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices.html#2026-10-23T13:04:39.361-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Drugs and medical devices",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices.html",
-  "lastmod": "2026-10-23T13:04:39.361-04:00",
-  "kind": "Updated",
-  "previous": "2025-03-18T13:58:22.985-04:00",
-  "detectedAt": "2026-10-23T19:58:30.853Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices/safe-use-health-products-weight-loss.html#2026-10-23T13:34:24.584-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "The safe use of health products for weight loss",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices/safe-use-health-products-weight-loss.html",
-  "lastmod": "2026-10-23T13:34:24.584-04:00",
-  "kind": "Updated",
-  "previous": "2016-11-25T18:33:54.797-05:00",
-  "detectedAt": "2026-10-23T19:58:30.853Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/buying-drugs-over-internet.html#2026-10-23T13:14:36.102-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Buying drugs online",
-  "link": "https://www.canada.ca/en/health-canada/services/buying-drugs-over-internet.html",
-  "lastmod": "2026-10-23T13:14:36.102-04:00",
-  "kind": "Updated",
-  "previous": "2026-10-13T14:37:44.836-04:00",
-  "detectedAt": "2026-10-23T19:58:30.853Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/biologics-radiopharmaceuticals-genetic-therapies/regulatory-roadmap-for-biologic-drugs.html#2026-10-23T14:46:03.199-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Regulatory roadmap for biologic (Schedule D) drugs in Canada",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/biologics-radiopharmaceuticals-genetic-therapies/regulatory-roadmap-for-biologic-drugs.html",
-  "lastmod": "2026-10-23T14:46:03.199-04:00",
-  "kind": "Updated",
-  "previous": "2026-07-09T12:50:57.629-04:00",
   "detectedAt": "2026-10-23T19:58:30.853Z"
  }
 ]

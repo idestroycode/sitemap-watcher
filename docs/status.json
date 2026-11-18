@@ -5,14 +5,14 @@
       "baseline": false,
       "urlsInSitemap": 14934,
       "urlsMatchingFilter": 5846,
-      "newOrUpdated": 3
+      "newOrUpdated": 1
     },
     "cra": {
       "ok": true,
       "baseline": false,
       "urlsInSitemap": 12467,
-      "urlsMatchingFilter": 275,
-      "newOrUpdated": 4
+      "urlsMatchingFilter": 276,
+      "newOrUpdated": 5
     },
     "canada-services": {
       "ok": true,
@@ -38,7 +38,7 @@
     "department-finance": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 4561,
+      "urlsInSitemap": 4565,
       "urlsMatchingFilter": 27,
       "newOrUpdated": 0
     },
