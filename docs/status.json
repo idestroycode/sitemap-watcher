@@ -3,16 +3,16 @@
     "health-canada": {
       "ok": true,
       "baseline": false,
-      "urlsInSitemap": 14934,
-      "urlsMatchingFilter": 5846,
-      "newOrUpdated": 0
+      "urlsInSitemap": 14935,
+      "urlsMatchingFilter": 5847,
+      "newOrUpdated": 3
     },
     "cra": {
       "ok": true,
       "baseline": false,
       "urlsInSitemap": 12467,
       "urlsMatchingFilter": 276,
-      "newOrUpdated": 0
+      "newOrUpdated": 13
     },
     "canada-services": {
       "ok": true,
