@@ -5,14 +5,14 @@
       "baseline": false,
       "urlsInSitemap": 14936,
       "urlsMatchingFilter": 5846,
-      "newOrUpdated": 7
+      "newOrUpdated": 0
     },
     "cra": {
       "ok": true,
       "baseline": false,
       "urlsInSitemap": 12464,
       "urlsMatchingFilter": 276,
-      "newOrUpdated": 15
+      "newOrUpdated": 0
     },
     "canada-services": {
       "ok": true,
@@ -47,7 +47,7 @@
       "baseline": false,
       "urlsInSitemap": 5217,
       "urlsMatchingFilter": 1465,
-      "newOrUpdated": 4
+      "newOrUpdated": 0
     }
   }
 }
