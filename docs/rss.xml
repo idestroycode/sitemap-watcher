@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 20:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:15:01 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] Racing News | April 2026</title>
+      <link>https://www.agco.ca/en/news/racing-news-april-2026</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/news/racing-news-april-2026#2026-11-19T10:42:42-05:00</guid>
+      <pubDate>Thu, 19 Nov 2026 15:42:42 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/news/racing-news-april-2026&quot;&gt;https://www.agco.ca/en/news/racing-news-april-2026&lt;/a&gt;&lt;/p&gt;&lt;p&gt;New URL. Last modified: Thursday, November 19, 2026 at 10:42 AM EST&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Health Canada] Drug product announcements</title>
       <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements.html</link>
@@ -2098,13 +2105,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/what-new.html#2026-10-28T13:09:24.834-04:00</guid>
       <pubDate>Wed, 28 Oct 2026 17:09:24 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/what-new.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/what-new.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 28, 2026 at 1:09 PM EDT (previously Friday, October 23, 2026 at 12:51 PM EDT)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Health Canada] What's new: Veterinary drugs – Health Canada</title>
-      <link>https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/what-new-veterinary-drugs.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/what-new-veterinary-drugs.html#2026-10-28T13:13:10.656-04:00</guid>
-      <pubDate>Wed, 28 Oct 2026 17:13:10 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/what-new-veterinary-drugs.html&quot;&gt;https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/what-new-veterinary-drugs.html&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Wednesday, October 28, 2026 at 1:13 PM EDT (previously Friday, September 25, 2026 at 7:27 AM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

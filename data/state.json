@@ -7463,6 +7463,7 @@
     "https://www.agco.ca/en/news/qualifiers-advance-return-racing": "2024-06-03T14:52:17-04:00",
     "https://www.agco.ca/en/news/racetrack-licence-approvals": "2026-02-02T11:14:53-05:00",
     "https://www.agco.ca/en/news/racetrack-licence-approvals-0": "2026-03-04T13:25:50-05:00",
+    "https://www.agco.ca/en/news/racing-news-april-2026": "2026-11-19T10:42:42-05:00",
     "https://www.agco.ca/en/news/reforms-modernize-charitable-break-open-tickets": "2024-06-03T14:35:41-04:00",
     "https://www.agco.ca/en/news/registrar-standards-updates-liquor-vending-machines-licensed-establishments": "2026-09-08T09:55:20-04:00",
     "https://www.agco.ca/en/news/regulations-under-liquor-licence-and-control-act-2019-posted-regulatory-registry": "2024-06-03T14:50:36-04:00",
@@ -8490,6 +8491,17 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.agco.ca/en/news/racing-news-april-2026#2026-11-19T10:42:42-05:00",
+  "feedId": "agco",
+  "feedName": "AGCO",
+  "title": "Racing News | April 2026",
+  "link": "https://www.agco.ca/en/news/racing-news-april-2026",
+  "lastmod": "2026-11-19T10:42:42-05:00",
+  "kind": "New URL",
+  "previous": "",
+  "detectedAt": "2026-11-20T09:15:01.814Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/announcements.html#2026-11-19T10:37:31.235-05:00",
   "feedId": "health-canada",
@@ -11777,17 +11789,6 @@
   "lastmod": "2026-10-28T13:09:24.834-04:00",
   "kind": "Updated",
   "previous": "2026-10-23T12:51:22.291-04:00",
-  "detectedAt": "2026-10-28T19:05:10.681Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/what-new-veterinary-drugs.html#2026-10-28T13:13:10.656-04:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "What's new: Veterinary drugs – Health Canada",
-  "link": "https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/what-new-veterinary-drugs.html",
-  "lastmod": "2026-10-28T13:13:10.656-04:00",
-  "kind": "Updated",
-  "previous": "2026-09-25T07:27:38.925-04:00",
   "detectedAt": "2026-10-28T19:05:10.681Z"
  }
 ]
