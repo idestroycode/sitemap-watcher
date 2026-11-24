@@ -5,7 +5,14 @@
     <link>https://idestroycode.github.io/sitemap-watcher/rss/agco.xml</link>
     <description>Sitemap URLs whose lastmod has changed</description>
     <atom:link href="https://idestroycode.github.io/sitemap-watcher/rss/agco.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 09:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:29:56 GMT</lastBuildDate>
+    <item>
+      <title>[AGCO] Biographies of current Board Members</title>
+      <link>https://www.agco.ca/en/general/biographies-current-board-members</link>
+      <guid isPermaLink="false">https://www.agco.ca/en/general/biographies-current-board-members#2026-11-23T07:57:52-05:00</guid>
+      <pubDate>Mon, 23 Nov 2026 12:57:52 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/general/biographies-current-board-members&quot;&gt;https://www.agco.ca/en/general/biographies-current-board-members&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Monday, November 23, 2026 at 7:57 AM EST (previously Thursday, September 17, 2026 at 2:49 PM EDT)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[AGCO] Racing News | April 2026</title>
       <link>https://www.agco.ca/en/news/racing-news-april-2026</link>
@@ -89,13 +96,6 @@
       <guid isPermaLink="false">https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race#2026-11-02T12:53:03-05:00</guid>
       <pubDate>Mon, 02 Nov 2026 17:53:03 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race&quot;&gt;https://www.agco.ca/en/news/agco-fines-standardbred-driver-louis-philippe-roy-5000-comments-questioning-integrity-race&lt;/a&gt;&lt;/p&gt;&lt;p&gt;New URL. Last modified: Monday, November 2, 2026 at 12:53 PM EST&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[AGCO] Steps to become a cannabis retailer</title>
-      <link>https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer</link>
-      <guid isPermaLink="false">https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer#2026-10-30T09:56:16-04:00</guid>
-      <pubDate>Fri, 30 Oct 2026 13:56:16 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer&quot;&gt;https://www.agco.ca/en/cannabis/steps-become-cannabis-retailer&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Updated. Last modified: Friday, October 30, 2026 at 9:56 AM EDT (previously Friday, April 24, 2026 at 10:04 AM EDT)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
