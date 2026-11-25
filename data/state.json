@@ -4946,7 +4946,7 @@
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/research-licensing-application/overview-process.html": "2026-07-08T11:09:52.665-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/research-licensing-application/prepare-information.html": "2025-07-15T12:58:07.527-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/types-research.html": "2025-10-22T13:29:13.293-04:00",
-    "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp.html": "2026-11-24T11:34:55.306-05:00",
+    "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp.html": "2026-11-24T16:04:35.326-05:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp/2020-05-12-covid-19.html": "2023-05-05T08:15:11.085-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp/2020-05-25-covid-19.html": "2023-05-05T08:15:50.743-04:00",
     "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp/2020-12-30-heavy-metal-microbial-testing-limits.html": "2023-05-05T08:18:45.585-04:00",
@@ -6179,7 +6179,7 @@
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/excise-taxes-special-levies-notices/statutory-end-user-refund-program-elimination-excise-tax-exemption-renewable-fuels.html": "2026-11-18T10:53:03.579-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/forms.html": "2026-11-18T16:56:36.815-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/list-vehicles-associated-rates-excise-tax-fuel-inefficient-vehicles.html": "2026-11-18T10:23:18.762-05:00",
-    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda.html": "2026-11-20T15:41:52.130-05:00",
+    "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda.html": "2026-11-24T16:23:44.606-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda/x2-1-licences.html": "2026-11-20T13:45:55.047-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda/x2-2-small-manufacturers.html": "2026-11-20T13:59:27.287-05:00",
     "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda/x2-3-bonds-given-security-licensed-wholesalers.html": "2026-11-20T14:13:30.618-05:00",
@@ -7783,17 +7783,17 @@
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/global-minimum-tax/register-account.html": "2026-08-12T15:24:39.725-04:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/global-minimum-tax/request-technical-interpretation.html": "2025-03-17T12:02:00.379-04:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/global-minimum-tax/who-must-file.html": "2026-05-13T10:34:21.827-04:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax.html": "2026-11-24T11:28:14.147-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/completing-luxury-tax-return-for-non-registrants.html": "2026-11-24T11:28:16.598-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/completing-luxury-tax-return.html": "2026-11-24T11:28:18.600-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/consideration-retail-value.html": "2026-11-24T11:28:16.615-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/luxury-tax-after-sales-improvements.html": "2026-11-24T11:28:18.613-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/luxury-tax-registration.html": "2026-11-24T11:28:22.992-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/pay-luxury-tax.html": "2026-11-24T11:28:27.314-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax.html": "2026-11-24T11:32:14.752-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/completing-luxury-tax-return-for-non-registrants.html": "2026-11-24T11:32:17.588-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/completing-luxury-tax-return.html": "2026-11-24T11:32:23.743-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/consideration-retail-value.html": "2026-11-24T11:32:20.563-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/luxury-tax-after-sales-improvements.html": "2026-11-24T11:32:26.868-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/luxury-tax-registration.html": "2026-11-24T11:32:31.436-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/pay-luxury-tax.html": "2026-11-24T11:32:34.152-05:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/technical-information.html": "2025-11-10T14:52:22.097-05:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/technical-information/luxury-tax-forms.html": "2026-05-07T12:39:33.459-04:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/technical-information/luxury-tax-notices.html": "2025-11-10T14:51:26.082-05:00",
-    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/third-party-rebates-sales-luxury-items.html": "2026-11-24T11:28:22.975-05:00",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/luxury-tax/third-party-rebates-sales-luxury-items.html": "2026-11-24T11:32:28.907-05:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/requesting-excise-specialty-tax-ruling-interpretation.html": "2026-10-07T08:12:26.897-04:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax.html": "2026-08-04T14:58:30.217-04:00",
     "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/amend-return.html": "2026-03-17T16:28:40.100-04:00",
@@ -8520,6 +8520,28 @@
  "agco": "[[\"https://www.agco.ca/sitemap.xml?page=1\",\"https://www.agco.ca/sitemap.xml?page=2\",\"https://www.agco.ca/sitemap.xml?page=3\"],\"exclude\",[\"/fr/\",\"agco\\\\.ca/fr([/?#]|$)\",\"horse\",\"gaming\",\"lottery\"]]"
 },
 "items": [
+ {
+  "id": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp.html#2026-11-24T16:04:35.326-05:00",
+  "feedId": "health-canada",
+  "feedName": "Health Canada",
+  "title": "Updates for cannabis and industrial hemp",
+  "link": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/updates-cannabis-industrial-hemp.html",
+  "lastmod": "2026-11-24T16:04:35.326-05:00",
+  "kind": "Updated",
+  "previous": "2026-11-24T11:34:55.306-05:00",
+  "detectedAt": "2026-11-25T04:27:39.813Z"
+ },
+ {
+  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda.html#2026-11-24T16:23:44.606-05:00",
+  "feedId": "cra",
+  "feedName": "CRA",
+  "title": "Excise taxes and other levies memoranda",
+  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-other-levies/memoranda.html",
+  "lastmod": "2026-11-24T16:23:44.606-05:00",
+  "kind": "Updated",
+  "previous": "2026-11-20T15:41:52.130-05:00",
+  "detectedAt": "2026-11-25T04:27:42.886Z"
+ },
  {
   "id": "https://www.canada.ca/en/health-canada/services/publications/drugs-health-products/data-cannabis-adverse-reactions-2020-annual-report.html#2026-11-24T11:34:01.765-05:00",
   "feedId": "health-canada",
@@ -11797,28 +11819,6 @@
   "kind": "Updated",
   "previous": "2026-10-30T11:59:33.819-04:00",
   "detectedAt": "2026-11-03T01:56:42.575Z"
- },
- {
-  "id": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html#2026-11-02T14:11:50.255-05:00",
-  "feedId": "cra",
-  "feedName": "CRA",
-  "title": "EDM8-1-1 Excise warehouses",
-  "link": "https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html",
-  "lastmod": "2026-11-02T14:11:50.255-05:00",
-  "kind": "Updated",
-  "previous": "2026-11-02T13:48:27.136-05:00",
-  "detectedAt": "2026-11-03T01:56:52.720Z"
- },
- {
-  "id": "https://www.canada.ca/en/health-canada/services/publications/drugs-health-products/technical-directive-sperm-ova-donors.html#2026-11-02T10:39:08.061-05:00",
-  "feedId": "health-canada",
-  "feedName": "Health Canada",
-  "title": "Technical requirements for conducting the suitability assessment of sperm and ova donors",
-  "link": "https://www.canada.ca/en/health-canada/services/publications/drugs-health-products/technical-directive-sperm-ova-donors.html",
-  "lastmod": "2026-11-02T10:39:08.061-05:00",
-  "kind": "Updated",
-  "previous": "2026-10-29T13:05:14.521-04:00",
-  "detectedAt": "2026-11-02T19:58:36.320Z"
  }
 ]
 }
